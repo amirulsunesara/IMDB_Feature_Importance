@@ -1,0 +1,126 @@
+/* your styles go here */
+div.tooltip {	
+    position: absolute;			
+    text-align: center;			
+    width: 170px;					
+    height: auto;
+    overflow: visible;					
+    padding: 8px;				
+    font: 12px sans-serif;		
+    background: #1D4360;
+    color:#FFF;	
+    border: 0px;		
+    border-radius: 8px;			
+    pointer-events: none;			
+}
+div.tool {	
+    position: absolute;			
+    text-align: center;			
+    width: 170px;					
+    height: 37px;					
+    padding: 8px;				
+    font: 12px sans-serif;		
+    background: #1D4360;
+    color:#FFF;	
+    border: 0px;		
+    border-radius: 8px;			
+    pointer-events: none;			
+}
+div.bubbles_tooltip {	
+    position: absolute;			
+    text-align: center;			
+    width: 290px;					
+    height: 150px;					
+    padding: 8px;				
+    font: 12px sans-serif;		
+    background: #1D4360;
+    color:#FFF;	
+    border: 0px;		
+    border-radius: 8px;			
+    pointer-events: none;			
+}
+
+.active_class{
+    background: #1D4360 !important;
+}
+.no_padding{
+    padding:5px !important;
+}
+.card-body {
+    padding: 10px;
+}
+
+/* your styles go here */
+.nav-padding{
+    padding-top: 30px !important;
+    padding-bottom: 30px !important;
+}
+
+
+.background path {
+    fill: none;
+    stroke: none;
+    stroke-width: 20px;
+    pointer-events: stroke;
+    z-index: -1;
+
+  }
+  
+  .foreground path {
+    fill: none;
+    /* stroke: green; */
+    stroke-width: 1.5px;
+    z-index: 999;
+  }
+  
+  .axis .title {
+    font-size: 11px;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  .axis line,
+  .axis path {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+  }
+  
+  .label {
+    -webkit-transition: fill 125ms linear;
+  }
+  
+  .active .label:not(.inactive) {
+    font-weight: bold;
+  }
+  
+  .label.inactive {
+    fill: #ccc;
+    
+  }
+ .foreground path.active{
+   z-index: 999;
+   stroke-width: 2px;
+ } 
+  
+  .foreground path.inactive {
+    /* stroke: #f7f7f7; */
+    stroke-opacity: .5;
+    stroke-width: 0.5px;
+    z-index: -1;
+    /* opacity:0.1; */
+    display: none;
+
+  }
+
+  .bubble-bar{
+      margin-left: 50px;
+  }
+  .loader{
+      
+      display: none;
+  }
+  .fa-circle-notch{
+    font-size: 25px;
+    margin-left:5px;
+  }

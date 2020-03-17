@@ -1,0 +1,1017 @@
+tconst,averageRating,numVotes,titleType,primaryTitle,originalTitle,isAdult,startYear,endYear,runtimeMinutes,genres
+tt0000001,5.6,1538,short,Carmencita,Carmencita,0,1894,\N,1,Documentary
+tt0000001,5.6,1538,short,Carmencita,Carmencita,0,1894,\N,1,Short
+tt0000002,6.1,186,short,Le clown et ses chiens,Le clown et ses chiens,0,1892,\N,5,Animation
+tt0000002,6.1,186,short,Le clown et ses chiens,Le clown et ses chiens,0,1892,\N,5,Short
+tt0000003,6.5,1198,short,Pauvre Pierrot,Pauvre Pierrot,0,1892,\N,4,Animation
+tt0000003,6.5,1198,short,Pauvre Pierrot,Pauvre Pierrot,0,1892,\N,4,Comedy
+tt0000003,6.5,1198,short,Pauvre Pierrot,Pauvre Pierrot,0,1892,\N,4,Romance
+tt0000004,6.2,114,short,Un bon bock,Un bon bock,0,1892,\N,\N,Animation
+tt0000004,6.2,114,short,Un bon bock,Un bon bock,0,1892,\N,\N,Short
+tt0000005,6.1,1910,short,Blacksmith Scene,Blacksmith Scene,0,1893,\N,1,Comedy
+tt0000005,6.1,1910,short,Blacksmith Scene,Blacksmith Scene,0,1893,\N,1,Short
+tt0000006,5.2,102,short,Chinese Opium Den,Chinese Opium Den,0,1894,\N,1,Short
+tt0000007,5.4,612,short,Corbett and Courtney Before the Kinetograph,Corbett and Courtney Before the Kinetograph,0,1894,\N,1,Short
+tt0000007,5.4,612,short,Corbett and Courtney Before the Kinetograph,Corbett and Courtney Before the Kinetograph,0,1894,\N,1,Sport
+tt0000008,5.4,1644,short,Edison Kinetoscopic Record of a Sneeze,Edison Kinetoscopic Record of a Sneeze,0,1894,\N,1,Documentary
+tt0000008,5.4,1644,short,Edison Kinetoscopic Record of a Sneeze,Edison Kinetoscopic Record of a Sneeze,0,1894,\N,1,Short
+tt0000009,5.4,81,movie,Miss Jerry,Miss Jerry,0,1894,\N,45,Romance
+tt0000010,6.9,5488,short,Exiting the Factory,La sortie de l'usine LumiÃ¨re Ã  Lyon,0,1895,\N,1,Documentary
+tt0000010,6.9,5488,short,Exiting the Factory,La sortie de l'usine LumiÃ¨re Ã  Lyon,0,1895,\N,1,Short
+tt0000011,5.2,234,short,Akrobatisches Potpourri,Akrobatisches Potpourri,0,1895,\N,1,Documentary
+tt0000011,5.2,234,short,Akrobatisches Potpourri,Akrobatisches Potpourri,0,1895,\N,1,Short
+tt0000012,7.4,9317,short,The Arrival of a Train,L'arrivÃ©e d'un train Ã  La Ciotat,0,1896,\N,1,Action
+tt0000012,7.4,9317,short,The Arrival of a Train,L'arrivÃ©e d'un train Ã  La Ciotat,0,1896,\N,1,Documentary
+tt0000012,7.4,9317,short,The Arrival of a Train,L'arrivÃ©e d'un train Ã  La Ciotat,0,1896,\N,1,Short
+tt0000013,5.7,1428,short,The Photographical Congress Arrives in Lyon,Neuville-sur-SaÃ´ne: DÃ©barquement du congrÃ¨s des photographes Ã  Lyon,0,1895,\N,1,Documentary
+tt0000013,5.7,1428,short,The Photographical Congress Arrives in Lyon,Neuville-sur-SaÃ´ne: DÃ©barquement du congrÃ¨s des photographes Ã  Lyon,0,1895,\N,1,Short
+tt0000014,7.1,4067,short,The Sprinkler Sprinkled,L'arroseur arrosÃ©,0,1895,\N,1,Comedy
+tt0000014,7.1,4067,short,The Sprinkler Sprinkled,L'arroseur arrosÃ©,0,1895,\N,1,Short
+tt0000015,6.1,736,short,Autour d'une cabine,Autour d'une cabine,0,1894,\N,2,Animation
+tt0000015,6.1,736,short,Autour d'une cabine,Autour d'une cabine,0,1894,\N,2,Short
+tt0000016,5.9,1069,short,Barque sortant du port,Barque sortant du port,0,1895,\N,1,Documentary
+tt0000016,5.9,1069,short,Barque sortant du port,Barque sortant du port,0,1895,\N,1,Short
+tt0000017,4.7,213,short,Italienischer Bauerntanz,Italienischer Bauerntanz,0,1895,\N,1,Documentary
+tt0000017,4.7,213,short,Italienischer Bauerntanz,Italienischer Bauerntanz,0,1895,\N,1,Short
+tt0000018,5.4,442,short,Das boxende KÃ¤nguruh,Das boxende KÃ¤nguruh,0,1895,\N,1,Short
+tt0000019,5.6,16,short,The Clown Barber,The Clown Barber,0,1898,\N,\N,Comedy
+tt0000019,5.6,16,short,The Clown Barber,The Clown Barber,0,1898,\N,\N,Short
+tt0000020,5.0,244,short,The Derby 1895,The Derby 1895,0,1895,\N,1,Documentary
+tt0000020,5.0,244,short,The Derby 1895,The Derby 1895,0,1895,\N,1,Short
+tt0000020,5.0,244,short,The Derby 1895,The Derby 1895,0,1895,\N,1,Sport
+tt0000022,5.1,796,short,Blacksmith Scene,Les forgerons,0,1895,\N,1,Documentary
+tt0000022,5.1,796,short,Blacksmith Scene,Les forgerons,0,1895,\N,1,Short
+tt0000023,5.6,1016,short,The Sea,Baignade en mer,0,1895,\N,1,Documentary
+tt0000023,5.6,1016,short,The Sea,Baignade en mer,0,1895,\N,1,Short
+tt0000024,5.3,23,short,Opening of the Kiel Canal,Opening of the Kiel Canal,0,1895,\N,\N,News
+tt0000024,5.3,23,short,Opening of the Kiel Canal,Opening of the Kiel Canal,0,1895,\N,\N,Short
+tt0000025,4.4,23,short,The Oxford and Cambridge University Boat Race,The Oxford and Cambridge University Boat Race,0,1895,\N,\N,News
+tt0000025,4.4,23,short,The Oxford and Cambridge University Boat Race,The Oxford and Cambridge University Boat Race,0,1895,\N,\N,Short
+tt0000025,4.4,23,short,The Oxford and Cambridge University Boat Race,The Oxford and Cambridge University Boat Race,0,1895,\N,\N,Sport
+tt0000026,5.7,1220,short,The Messers. LumiÃ¨re at Cards,Partie d'Ã©cartÃ©,0,1896,\N,1,Documentary
+tt0000026,5.7,1220,short,The Messers. LumiÃ¨re at Cards,Partie d'Ã©cartÃ©,0,1896,\N,1,Short
+tt0000027,5.6,838,short,Cordeliers' Square in Lyon,Place des Cordeliers Ã  Lyon,0,1895,\N,1,Documentary
+tt0000027,5.6,838,short,Cordeliers' Square in Lyon,Place des Cordeliers Ã  Lyon,0,1895,\N,1,Short
+tt0000028,5.1,769,short,Fishing for Goldfish,La pÃªche aux poissons rouges,0,1895,\N,1,Documentary
+tt0000028,5.1,769,short,Fishing for Goldfish,La pÃªche aux poissons rouges,0,1895,\N,1,Short
+tt0000029,5.9,2610,short,Baby's Dinner,Repas de bÃ©bÃ©,0,1895,\N,1,Documentary
+tt0000029,5.9,2610,short,Baby's Dinner,Repas de bÃ©bÃ©,0,1895,\N,1,Short
+tt0000030,5.3,640,short,Rough Sea at Dover,Rough Sea at Dover,0,1895,\N,1,Documentary
+tt0000030,5.3,640,short,Rough Sea at Dover,Rough Sea at Dover,0,1895,\N,1,Short
+tt0000031,5.5,744,short,Jumping the Blanket,Le saut Ã  la couverture,0,1895,\N,1,Documentary
+tt0000031,5.5,744,short,Jumping the Blanket,Le saut Ã  la couverture,0,1895,\N,1,Short
+tt0000032,5.2,311,short,Die SerpentintÃ¤nzerin,Die SerpentintÃ¤nzerin,0,1895,\N,1,Short
+tt0000033,5.6,782,short,Trick Riding,La voltige,0,1895,\N,1,Comedy
+tt0000033,5.6,782,short,Trick Riding,La voltige,0,1895,\N,1,Documentary
+tt0000033,5.6,782,short,Trick Riding,La voltige,0,1895,\N,1,Short
+tt0000034,5.4,114,short,ArrivÃ©e d'un train gare de Vincennes,ArrivÃ©e d'un train gare de Vincennes,0,1896,\N,1,Documentary
+tt0000034,5.4,114,short,ArrivÃ©e d'un train gare de Vincennes,ArrivÃ©e d'un train gare de Vincennes,0,1896,\N,1,Short
+tt0000035,5.7,51,short,Watering the Flowers,L'arroseur,0,1896,\N,1,Comedy
+tt0000035,5.7,51,short,Watering the Flowers,L'arroseur,0,1896,\N,1,Short
+tt0000036,4.5,449,short,Awakening of Rip,Awakening of Rip,0,1896,\N,0,Drama
+tt0000036,4.5,449,short,Awakening of Rip,Awakening of Rip,0,1896,\N,0,Short
+tt0000037,4.6,39,short,Sea Bathing,Baignade en mer,0,1896,\N,1,Short
+tt0000038,4.1,134,short,The Ball Game,The Ball Game,0,1898,\N,\N,Documentary
+tt0000038,4.1,134,short,The Ball Game,The Ball Game,0,1898,\N,\N,Short
+tt0000038,4.1,134,short,The Ball Game,The Ball Game,0,1898,\N,\N,Sport
+tt0000039,3.9,13,short,Barnet Horse Fair,Barnet Horse Fair,0,1896,\N,\N,Short
+tt0000040,4.1,34,short,Barque sortant du port de Trouville,Barque sortant du port de Trouville,0,1896,\N,\N,Documentary
+tt0000040,4.1,34,short,Barque sortant du port de Trouville,Barque sortant du port de Trouville,0,1896,\N,\N,Short
+tt0000041,6.6,1300,short,Bataille de neige,Bataille de neige,0,1897,\N,1,Action
+tt0000041,6.6,1300,short,Bataille de neige,Bataille de neige,0,1897,\N,1,Comedy
+tt0000041,6.6,1300,short,Bataille de neige,Bataille de neige,0,1897,\N,1,Documentary
+tt0000042,4.5,19,short,Bateau-mouche sur la Seine,Bateau-mouche sur la Seine,0,1896,\N,\N,Documentary
+tt0000042,4.5,19,short,Bateau-mouche sur la Seine,Bateau-mouche sur la Seine,0,1896,\N,\N,Short
+tt0000043,4.0,11,short,Batteuse Ã  vapeur,Batteuse Ã  vapeur,0,1896,\N,\N,Documentary
+tt0000043,4.0,11,short,Batteuse Ã  vapeur,Batteuse Ã  vapeur,0,1896,\N,\N,Short
+tt0000044,4.6,25,short,Le bivouac,Le bivouac,0,1896,\N,1,Short
+tt0000045,4.4,16,short,Les blanchisseuses,Les blanchisseuses,0,1896,\N,\N,Short
+tt0000046,4.2,16,short,Bois de Boulogne,Bois de Boulogne,0,1896,\N,\N,Documentary
+tt0000046,4.2,16,short,Bois de Boulogne,Bois de Boulogne,0,1896,\N,\N,Short
+tt0000047,3.6,14,short,Boulevard des Italiens,Boulevard des Italiens,0,1896,\N,\N,Documentary
+tt0000047,3.6,14,short,Boulevard des Italiens,Boulevard des Italiens,0,1896,\N,\N,Short
+tt0000048,4.9,111,short,The Boxing Kangaroo,The Boxing Kangaroo,0,1896,\N,\N,Short
+tt0000049,5.4,22,short,"Boxing Match; or, Glove Contest","Boxing Match; or, Glove Contest",0,1896,\N,\N,Short
+tt0000049,5.4,22,short,"Boxing Match; or, Glove Contest","Boxing Match; or, Glove Contest",0,1896,\N,\N,Sport
+tt0000050,4.2,14,short,BÃ©bÃ© et fillettes,BÃ©bÃ© et fillettes,0,1896,\N,\N,Documentary
+tt0000050,4.2,14,short,BÃ©bÃ© et fillettes,BÃ©bÃ© et fillettes,0,1896,\N,\N,Short
+tt0000051,3.9,12,short,The Bohemian Encampment,Campement de bohÃ©miens,0,1896,\N,\N,Documentary
+tt0000051,3.9,12,short,The Bohemian Encampment,Campement de bohÃ©miens,0,1896,\N,\N,Short
+tt0000052,4.5,48,short,Carga de rurales,Carga de rurales,0,1896,\N,1,Documentary
+tt0000052,4.5,48,short,Carga de rurales,Carga de rurales,0,1896,\N,1,Short
+tt0000053,2.8,8,short,A Chegada do Comboio Inaugural Ã  EstaÃ§Ã£o Central do Porto,A Chegada do Comboio Inaugural Ã  EstaÃ§Ã£o Central do Porto,0,1897,\N,\N,Documentary
+tt0000053,2.8,8,short,A Chegada do Comboio Inaugural Ã  EstaÃ§Ã£o Central do Porto,A Chegada do Comboio Inaugural Ã  EstaÃ§Ã£o Central do Porto,0,1897,\N,\N,Short
+tt0000054,5.2,17,short,A Merry-Go-Round,Les chevaux de bois,0,1896,\N,\N,Short
+tt0000055,3.9,14,short,Le chiffonnier,Le chiffonnier,0,1896,\N,\N,Short
+tt0000056,3.4,10,short,Uma Corrida de Touros no Campo Pequeno,Uma Corrida de Touros no Campo Pequeno,0,1896,\N,\N,Short
+tt0000057,4.4,13,short,CortÃ¨ge de tzar allant Ã  Versailles,CortÃ¨ge de tzar allant Ã  Versailles,0,1896,\N,\N,Documentary
+tt0000057,4.4,13,short,CortÃ¨ge de tzar allant Ã  Versailles,CortÃ¨ge de tzar allant Ã  Versailles,0,1896,\N,\N,Short
+tt0000058,4.1,14,short,CortÃ¨ge de tzar au Bois de Boulogne,CortÃ¨ge de tzar au Bois de Boulogne,0,1896,\N,\N,Documentary
+tt0000058,4.1,14,short,CortÃ¨ge de tzar au Bois de Boulogne,CortÃ¨ge de tzar au Bois de Boulogne,0,1896,\N,\N,Short
+tt0000059,3.7,11,short,Coronation of a Village Maiden,Couronnement de la rosiÃ¨re,0,1896,\N,\N,Short
+tt0000060,7.8,59,short,Dancing Darkies,Dancing Darkies,0,1896,\N,\N,Documentary
+tt0000060,7.8,59,short,Dancing Darkies,Dancing Darkies,0,1896,\N,\N,Short
+tt0000061,4.0,13,short,Dancing Girls,Dancing Girls,0,1896,\N,\N,Short
+tt0000062,6.5,149,short,Danse serpentine,Danse serpentine,0,1896,\N,1,Short
+tt0000063,3.7,10,short,Dessinateur express,Dessinateur express,0,1896,\N,\N,Short
+tt0000064,3.5,11,short,Dessinateur: Chamberlain,Dessinateur: Chamberlain,0,1896,\N,\N,Short
+tt0000065,3.7,11,short,Dessinateur: Reine Victoria,Dessinateur: Reine Victoria,0,1896,\N,\N,Short
+tt0000066,3.8,11,short,Dessinateur: Von Bismark,Dessinateur: Von Bismark,0,1896,\N,\N,Short
+tt0000067,5.8,39,short,Conjurer Making Ten Hats in Sixty Seconds,Dix chapeaux en 60 secondes,0,1896,\N,\N,Fantasy
+tt0000067,5.8,39,short,Conjurer Making Ten Hats in Sixty Seconds,Dix chapeaux en 60 secondes,0,1896,\N,\N,Short
+tt0000068,4.0,11,short,Unloading the Boat,DÃ©chargement de bateaux,0,1896,\N,\N,Documentary
+tt0000068,4.0,11,short,Unloading the Boat,DÃ©chargement de bateaux,0,1896,\N,\N,Short
+tt0000069,4.9,314,short,Post No Bills,DÃ©fense d'afficher,0,1896,\N,1,Short
+tt0000070,6.4,2058,short,DÃ©molition d'un mur,DÃ©molition d'un mur,0,1896,\N,1,Documentary
+tt0000070,6.4,2058,short,DÃ©molition d'un mur,DÃ©molition d'un mur,0,1896,\N,1,Short
+tt0000071,3.7,14,short,Automobiles Starting a Race,DÃ©part des automobiles,0,1896,\N,\N,Short
+tt0000071,3.7,14,short,Automobiles Starting a Race,DÃ©part des automobiles,0,1896,\N,\N,Sport
+tt0000072,4.2,13,short,Officers of French Army Leaving Service,DÃ©part des officiers,0,1896,\N,\N,Short
+tt0000073,4.0,11,short,Effets de mer sur les rochers,Effets de mer sur les rochers,0,1896,\N,\N,Documentary
+tt0000073,4.0,11,short,Effets de mer sur les rochers,Effets de mer sur les rochers,0,1896,\N,\N,Short
+tt0000074,4.2,15,short,Enfants jouant sur la plage,Enfants jouant sur la plage,0,1896,\N,\N,Documentary
+tt0000074,4.2,15,short,Enfants jouant sur la plage,Enfants jouant sur la plage,0,1896,\N,\N,Short
+tt0000075,6.3,1385,short,The Conjuring of a Woman at the House of Robert Houdin,Escamotage d'une dame au thÃ©Ã¢tre Robert Houdin,0,1896,\N,1,Horror
+tt0000075,6.3,1385,short,The Conjuring of a Woman at the House of Robert Houdin,Escamotage d'une dame au thÃ©Ã¢tre Robert Houdin,0,1896,\N,1,Short
+tt0000076,4.5,393,short,Exit of Rip and the Dwarf,Exit of Rip and the Dwarf,0,1896,\N,1,Drama
+tt0000076,4.5,393,short,Exit of Rip and the Dwarf,Exit of Rip and the Dwarf,0,1896,\N,1,Short
+tt0000077,4.8,17,short,"Le fakir, mystÃ¨re indien","Le fakir, mystÃ¨re indien",0,1896,\N,\N,Short
+tt0000078,4.3,45,short,Feira de Gado na Corujeira,Feira de Gado na Corujeira,0,1896,\N,1,Documentary
+tt0000078,4.3,45,short,Feira de Gado na Corujeira,Feira de Gado na Corujeira,0,1896,\N,1,Short
+tt0000079,4.4,17,short,La gare Saint-Lazare,La gare Saint-Lazare,0,1896,\N,\N,Documentary
+tt0000079,4.4,17,short,La gare Saint-Lazare,La gare Saint-Lazare,0,1896,\N,\N,Short
+tt0000080,4.1,13,short,Grandes manoeuvres,Grandes manoeuvres,0,1896,\N,\N,Documentary
+tt0000080,4.1,13,short,Grandes manoeuvres,Grandes manoeuvres,0,1896,\N,\N,Short
+tt0000081,4.1,14,short,Towing a Boat on the River,Les haleurs de bateaux,0,1896,\N,\N,Documentary
+tt0000081,4.1,14,short,Towing a Boat on the River,Les haleurs de bateaux,0,1896,\N,\N,Short
+tt0000082,5.0,21,short,A Hard Wash,A Hard Wash,0,1896,\N,\N,Comedy
+tt0000082,5.0,21,short,A Hard Wash,A Hard Wash,0,1896,\N,\N,Short
+tt0000083,4.8,16,short,Les indiscrets,Les indiscrets,0,1896,\N,\N,Short
+tt0000084,4.1,14,short,Les ivrognes,Les ivrognes,0,1896,\N,\N,Short
+tt0000085,4.8,16,short,Gardener Burning Weeds,Jardinier brÃ»lant des herbes,0,1896,\N,\N,Short
+tt0000086,4.1,14,short,"Beach and Pier at Trouville, 1st part",JetÃ©e et plage de Trouville (1er partie),0,1896,\N,\N,Documentary
+tt0000086,4.1,14,short,"Beach and Pier at Trouville, 1st part",JetÃ©e et plage de Trouville (1er partie),0,1896,\N,\N,Short
+tt0000087,4.8,17,short,"Beach and Pier at Trouville, 2nd part",JetÃ©e et plage de Trouville (2e partie),0,1896,\N,\N,Documentary
+tt0000087,4.8,17,short,"Beach and Pier at Trouville, 2nd part",JetÃ©e et plage de Trouville (2e partie),0,1896,\N,\N,Short
+tt0000088,4.7,14,short,Market Day,Jour de marchÃ© Ã  Trouville,0,1896,\N,\N,Documentary
+tt0000088,4.7,14,short,Market Day,Jour de marchÃ© Ã  Trouville,0,1896,\N,\N,Short
+tt0000089,6.2,760,short,Leaving Jerusalem by Railway,DÃ©part de JÃ©rusalem en chemin de fer,0,1897,\N,1,Documentary
+tt0000089,6.2,760,short,Leaving Jerusalem by Railway,DÃ©part de JÃ©rusalem en chemin de fer,0,1897,\N,1,Short
+tt0000090,4.0,13,short,LibÃ©ration des territoriaux,LibÃ©ration des territoriaux,0,1896,\N,\N,Documentary
+tt0000090,4.0,13,short,LibÃ©ration des territoriaux,LibÃ©ration des territoriaux,0,1896,\N,\N,Short
+tt0000091,6.7,2466,short,The House of the Devil,Le manoir du diable,0,1896,\N,3,Horror
+tt0000091,6.7,2466,short,The House of the Devil,Le manoir du diable,0,1896,\N,3,Short
+tt0000092,4.6,11,short,MarÃ©e montante sur Brise-Larmes,MarÃ©e montante sur Brise-Larmes,0,1896,\N,\N,Documentary
+tt0000092,4.6,11,short,MarÃ©e montante sur Brise-Larmes,MarÃ©e montante sur Brise-Larmes,0,1896,\N,\N,Short
+tt0000093,5.0,61,short,Melbourne,Melbourne,0,1896,\N,\N,Documentary
+tt0000093,5.0,61,short,Melbourne,Melbourne,0,1896,\N,\N,Short
+tt0000094,4.2,13,short,Miss de Vere,Miss de Vere,0,1896,\N,\N,Short
+tt0000095,4.8,18,short,The Mysterious Paper,Le papier protÃ©e,0,1896,\N,\N,Short
+tt0000096,4.5,11,short,Place Saint-Augustin,Place Saint-Augustin,0,1896,\N,\N,Documentary
+tt0000096,4.5,11,short,Place Saint-Augustin,Place Saint-Augustin,0,1896,\N,\N,Short
+tt0000097,4.9,17,short,"Place de l'OpÃ©ra, First View","Place de l'OpÃ©ra, 1er aspect",0,1896,\N,\N,Documentary
+tt0000097,4.9,17,short,"Place de l'OpÃ©ra, First View","Place de l'OpÃ©ra, 1er aspect",0,1896,\N,\N,Short
+tt0000098,5.5,18,short,"Place de l'OpÃ©ra, Second View","Place de l'OpÃ©ra, 2e aspect",0,1896,\N,\N,Documentary
+tt0000098,5.5,18,short,"Place de l'OpÃ©ra, Second View","Place de l'OpÃ©ra, 2e aspect",0,1896,\N,\N,Short
+tt0000099,4.7,14,short,Place de la Bastille,Place de la Bastille,0,1896,\N,\N,Documentary
+tt0000099,4.7,14,short,Place de la Bastille,Place de la Bastille,0,1896,\N,\N,Short
+tt0000100,4.9,30,short,Place de la Concorde,Place de la Concorde,0,1896,\N,\N,Documentary
+tt0000100,4.9,30,short,Place de la Concorde,Place de la Concorde,0,1896,\N,\N,Short
+tt0000101,4.6,12,short,Place du thÃ©Ã¢tre franÃ§ais,Place du thÃ©Ã¢tre franÃ§ais,0,1896,\N,\N,Documentary
+tt0000101,4.6,12,short,Place du thÃ©Ã¢tre franÃ§ais,Place du thÃ©Ã¢tre franÃ§ais,0,1896,\N,\N,Short
+tt0000102,4.8,12,short,The Beach at Villiers in a Gale,Plage de Villiers par gros temps,0,1896,\N,\N,Short
+tt0000103,5.8,13,short,Smarter than the Teacher,Plus fort que le maÃ®tre,0,1896,\N,\N,Short
+tt0000104,5.5,362,short,Pompiers Ã  Lyon,Pompiers Ã  Lyon,0,1896,\N,1,Documentary
+tt0000104,5.5,362,short,Pompiers Ã  Lyon,Pompiers Ã  Lyon,0,1896,\N,1,Short
+tt0000105,5.4,13,short,The Docks at Marseilles,Les quais Ã  Marseille,0,1896,\N,\N,Documentary
+tt0000105,5.4,13,short,The Docks at Marseilles,Les quais Ã  Marseille,0,1896,\N,\N,Short
+tt0000106,4.6,10,short,Retour au cantonnement,Retour au cantonnement,0,1896,\N,\N,Short
+tt0000107,5.6,12,short,Naval Review at Cherburg,Revue navale Ã  Cherbourg,0,1896,\N,\N,Documentary
+tt0000107,5.6,12,short,Naval Review at Cherburg,Revue navale Ã  Cherbourg,0,1896,\N,\N,Short
+tt0000108,4.4,405,short,Rip Leaving Sleepy Hollow,Rip Leaving Sleepy Hollow,0,1896,\N,1,Drama
+tt0000108,4.4,405,short,Rip Leaving Sleepy Hollow,Rip Leaving Sleepy Hollow,0,1896,\N,1,Short
+tt0000109,4.6,398,short,Rip Meeting the Dwarf,Rip Meeting the Dwarf,0,1896,\N,1,Fantasy
+tt0000109,4.6,398,short,Rip Meeting the Dwarf,Rip Meeting the Dwarf,0,1896,\N,1,Short
+tt0000110,4.4,404,short,Rip Passing Over the Mountain,Rip Passing Over the Mountain,0,1896,\N,1,Fantasy
+tt0000110,4.4,404,short,Rip Passing Over the Mountain,Rip Passing Over the Mountain,0,1896,\N,1,Short
+tt0000111,4.5,412,short,Rip's Toast,Rip's Toast,0,1896,\N,1,Drama
+tt0000111,4.5,412,short,Rip's Toast,Rip's Toast,0,1896,\N,1,Short
+tt0000112,4.5,398,short,Rip's Toast to Hudson,Rip's Toast to Hudson,0,1896,\N,1,Fantasy
+tt0000112,4.5,398,short,Rip's Toast to Hudson,Rip's Toast to Hudson,0,1896,\N,1,Short
+tt0000113,4.4,418,short,Rip's Twenty Years' Sleep,Rip's Twenty Years' Sleep,0,1896,\N,0,Drama
+tt0000113,4.4,418,short,Rip's Twenty Years' Sleep,Rip's Twenty Years' Sleep,0,1896,\N,0,Short
+tt0000114,5.5,14,short,French Regiment Going to the Parade,Le rÃ©giment,0,1896,\N,\N,Documentary
+tt0000114,5.5,14,short,French Regiment Going to the Parade,Le rÃ©giment,0,1896,\N,\N,Short
+tt0000115,5.2,16,short,RÃ©union d'officiers,RÃ©union d'officiers,0,1896,\N,\N,Documentary
+tt0000115,5.2,16,short,RÃ©union d'officiers,RÃ©union d'officiers,0,1896,\N,\N,Short
+tt0000116,5.5,13,short,Sac au dos,Sac au dos,0,1896,\N,\N,Short
+tt0000117,5.1,106,short,SaÃ­da do Pessoal OperÃ¡rio da FÃ¡brica ConfianÃ§a,SaÃ­da do Pessoal OperÃ¡rio da FÃ¡brica ConfianÃ§a,0,1896,\N,1,Documentary
+tt0000117,5.1,106,short,SaÃ­da do Pessoal OperÃ¡rio da FÃ¡brica ConfianÃ§a,SaÃ­da do Pessoal OperÃ¡rio da FÃ¡brica ConfianÃ§a,0,1896,\N,1,Short
+tt0000118,5.6,14,short,Salut malencontreux d'un dÃ©serteur,Salut malencontreux d'un dÃ©serteur,0,1896,\N,\N,Short
+tt0000119,5.9,22,short,"Rescue on the River, Pt. 2","Sauvetage en riviÃ¨re, 1er",0,1896,\N,\N,Documentary
+tt0000119,5.9,22,short,"Rescue on the River, Pt. 2","Sauvetage en riviÃ¨re, 1er",0,1896,\N,\N,Short
+tt0000120,5.8,25,short,"Rescue on the River, Pt. 1","Sauvetage en riviÃ¨re, 2e",0,1896,\N,\N,Documentary
+tt0000120,5.8,25,short,"Rescue on the River, Pt. 1","Sauvetage en riviÃ¨re, 2e",0,1896,\N,\N,Short
+tt0000121,4.4,39,short,The Soldier's Courtship,The Soldier's Courtship,0,1896,\N,\N,Comedy
+tt0000121,4.4,39,short,The Soldier's Courtship,The Soldier's Courtship,0,1896,\N,\N,Short
+tt0000122,5.5,13,short,Closing Hours at Vibert's Perfume Factory,Sortie des ateliers Vibert,0,1896,\N,\N,Documentary
+tt0000122,5.5,13,short,Closing Hours at Vibert's Perfume Factory,Sortie des ateliers Vibert,0,1896,\N,\N,Short
+tt0000123,5.6,62,short,Conjuring,SÃ©ance de prestidigitation,0,1896,\N,\N,Short
+tt0000124,5.6,13,short,TempÃªte sur la jetÃ©e du treport,TempÃªte sur la jetÃ©e du treport,0,1896,\N,\N,Documentary
+tt0000124,5.6,13,short,TempÃªte sur la jetÃ©e du treport,TempÃªte sur la jetÃ©e du treport,0,1896,\N,\N,Short
+tt0000125,4.7,7,short,The Terrible Railway Accident,The Terrible Railway Accident,0,1896,\N,\N,Short
+tt0000126,5.7,15,short,Tom Old Boot,Tom Old Boot,0,1896,\N,\N,Short
+tt0000127,4.5,12,short,Les tribulations d'un concierge,Les tribulations d'un concierge,0,1896,\N,\N,Comedy
+tt0000127,4.5,12,short,Les tribulations d'un concierge,Les tribulations d'un concierge,0,1896,\N,\N,Short
+tt0000128,5.9,22,short,Academy for Young Ladies,Un lycÃ©e de jeunes filles,0,1896,\N,\N,Short
+tt0000129,6.8,32,short,Un petit diable,Un petit diable,0,1896,\N,\N,Short
+tt0000130,5.4,14,short,Une altercation au cafÃ©,Une altercation au cafÃ©,0,1896,\N,\N,Short
+tt0000131,5.8,963,short,A Terrible Night,Une nuit terrible,0,1896,\N,1,Comedy
+tt0000131,5.8,963,short,A Terrible Night,Une nuit terrible,0,1896,\N,1,Horror
+tt0000131,5.8,963,short,A Terrible Night,Une nuit terrible,0,1896,\N,1,Short
+tt0000132,5.1,807,short,Card Party,Une partie de cartes,0,1896,\N,1,Biography
+tt0000132,5.1,807,short,Card Party,Une partie de cartes,0,1896,\N,1,Short
+tt0000133,6.7,19,short,La voiture du potier,La voiture du potier,0,1896,\N,\N,Short
+tt0000134,4.7,7,short,The Wandering Negro Minstrels,The Wandering Negro Minstrels,0,1896,\N,\N,Music
+tt0000134,4.7,7,short,The Wandering Negro Minstrels,The Wandering Negro Minstrels,0,1896,\N,\N,Short
+tt0000135,7.0,48,short,A Watermelon Feast,A Watermelon Feast,0,1896,\N,\N,Documentary
+tt0000135,7.0,48,short,A Watermelon Feast,A Watermelon Feast,0,1896,\N,\N,Short
+tt0000136,6.3,280,short,L'arroseur arrosÃ©,L'arroseur arrosÃ©,0,1897,\N,1,Comedy
+tt0000136,6.3,280,short,L'arroseur arrosÃ©,L'arroseur arrosÃ©,0,1897,\N,1,Short
+tt0000137,4.5,8,short,Au rÃ©fectoire,Au rÃ©fectoire,0,1897,\N,\N,Comedy
+tt0000137,4.5,8,short,Au rÃ©fectoire,Au rÃ©fectoire,0,1897,\N,\N,Short
+tt0000138,6.5,742,short,The Bewitched Inn,L'auberge ensorcelÃ©e,0,1897,\N,2,Comedy
+tt0000138,6.5,742,short,The Bewitched Inn,L'auberge ensorcelÃ©e,0,1897,\N,2,Horror
+tt0000138,6.5,742,short,The Bewitched Inn,L'auberge ensorcelÃ©e,0,1897,\N,2,Short
+tt0000139,5.4,14,short,L'aveugle,L'aveugle,0,1897,\N,\N,Short
+tt0000140,5.1,208,short,Baignade dans le torrent,Baignade dans le torrent,0,1897,\N,1,Short
+tt0000141,5.4,49,short,Ballet libella,Ballet libella,0,1897,\N,\N,Documentary
+tt0000141,5.4,49,short,Ballet libella,Ballet libella,0,1897,\N,\N,Short
+tt0000142,4.7,10,short,Buffalo Bill and Escort,Buffalo Bill and Escort,0,1897,\N,\N,News
+tt0000142,4.7,10,short,Buffalo Bill and Escort,Buffalo Bill and Escort,0,1897,\N,\N,Short
+tt0000143,4.9,181,short,Les cambrioleurs,Les cambrioleurs,0,1897,\N,1,Comedy
+tt0000143,4.9,181,short,Les cambrioleurs,Les cambrioleurs,0,1897,\N,1,Short
+tt0000144,5.1,202,short,Chez le magnÃ©tiseur,Chez le magnÃ©tiseur,0,1897,\N,1,Comedy
+tt0000144,5.1,202,short,Chez le magnÃ©tiseur,Chez le magnÃ©tiseur,0,1897,\N,1,Short
+tt0000146,5.2,12,short,Le cocher de fiacre endormi,Le cocher de fiacre endormi,0,1897,\N,\N,Comedy
+tt0000146,5.2,12,short,Le cocher de fiacre endormi,Le cocher de fiacre endormi,0,1897,\N,\N,Short
+tt0000147,5.1,305,movie,The Corbett-Fitzsimmons Fight,The Corbett-Fitzsimmons Fight,0,1897,\N,20,Documentary
+tt0000147,5.1,305,movie,The Corbett-Fitzsimmons Fight,The Corbett-Fitzsimmons Fight,0,1897,\N,20,News
+tt0000147,5.1,305,movie,The Corbett-Fitzsimmons Fight,The Corbett-Fitzsimmons Fight,0,1897,\N,20,Sport
+tt0000149,4.9,9,short,Behind the Scenes,Dans les coulisses,0,1897,\N,\N,Comedy
+tt0000149,4.9,9,short,Behind the Scenes,Dans les coulisses,0,1897,\N,\N,Short
+tt0000150,5.5,89,short,Danse fleur de lotus,Danse fleur de lotus,0,1897,\N,1,Documentary
+tt0000150,5.5,89,short,Danse fleur de lotus,Danse fleur de lotus,0,1897,\N,1,Short
+tt0000151,5.3,28,short,Faust et Marguerite,Faust et Marguerite,0,1897,\N,\N,Short
+tt0000152,6.1,148,short,The Hallucinated Alchemist,L'hallucination de l'alchimiste,0,1897,\N,2,Fantasy
+tt0000152,6.1,148,short,The Hallucinated Alchemist,L'hallucination de l'alchimiste,0,1897,\N,2,Horror
+tt0000152,6.1,148,short,The Hallucinated Alchemist,L'hallucination de l'alchimiste,0,1897,\N,2,Short
+tt0000153,5.7,279,short,The Haunted Castle,The Haunted Castle,0,1897,\N,1,Horror
+tt0000153,5.7,279,short,The Haunted Castle,The Haunted Castle,0,1897,\N,1,Short
+tt0000154,3.8,8,short,Henley Regatta,Henley Regatta,0,1897,\N,\N,News
+tt0000154,3.8,8,short,Henley Regatta,Henley Regatta,0,1897,\N,\N,Short
+tt0000154,3.8,8,short,Henley Regatta,Henley Regatta,0,1897,\N,\N,Sport
+tt0000155,4.9,12,short,The Hypnotist at Work,Le magnÃ©tiseur,0,1897,\N,\N,Short
+tt0000156,4.2,10,short,A Badly Managed Hotel,L'hÃ´tel empoisonnÃ©,0,1896,\N,\N,Comedy
+tt0000156,4.2,10,short,A Badly Managed Hotel,L'hÃ´tel empoisonnÃ©,0,1896,\N,\N,Short
+tt0000157,4.7,6,short,Idylle,Idylle,0,1897,\N,\N,Short
+tt0000158,3.8,6,short,Idylle interrompue,Idylle interrompue,0,1897,\N,\N,Comedy
+tt0000158,3.8,6,short,Idylle interrompue,Idylle interrompue,0,1897,\N,\N,Short
+tt0000159,5.3,51,short,The Devil's Laboratory,Le cabinet de MÃ©phistophÃ©lÃ¨s,0,1897,\N,1,Horror
+tt0000159,5.3,51,short,The Devil's Laboratory,Le cabinet de MÃ©phistophÃ©lÃ¨s,0,1897,\N,1,Short
+tt0000160,5.8,8,short,The Last Days of Pompeii,The Last Days of Pompeii,0,1900,\N,\N,Drama
+tt0000160,5.8,8,short,The Last Days of Pompeii,The Last Days of Pompeii,0,1900,\N,\N,Short
+tt0000161,4.3,6,short,LeÃ§on de danse,LeÃ§on de danse,0,1897,\N,\N,Comedy
+tt0000161,4.3,6,short,LeÃ§on de danse,LeÃ§on de danse,0,1897,\N,\N,Short
+tt0000162,5.4,372,short,Niagara Falls,Les chutes,0,1897,\N,1,Documentary
+tt0000162,5.4,372,short,Niagara Falls,Les chutes,0,1897,\N,1,Short
+tt0000164,5.0,209,short,Le pÃªcheur dans le torrent,Le pÃªcheur dans le torrent,0,1897,\N,1,Comedy
+tt0000164,5.0,209,short,Le pÃªcheur dans le torrent,Le pÃªcheur dans le torrent,0,1897,\N,1,Short
+tt0000165,5.2,74,short,RiÃ±a en un cafÃ©,RiÃ±a en un cafÃ©,0,1897,\N,1,Short
+tt0000166,4.7,6,short,Salida de los trabajadores de la fÃ¡brica EspaÃ±a Industrial,Salida de los trabajadores de la fÃ¡brica EspaÃ±a Industrial,0,1897,\N,1,Documentary
+tt0000166,4.7,6,short,Salida de los trabajadores de la fÃ¡brica EspaÃ±a Industrial,Salida de los trabajadores de la fÃ¡brica EspaÃ±a Industrial,0,1897,\N,1,Short
+tt0000167,4.6,92,short,Salida de misa de doce del Pilar de Zaragoza,Salida de misa de doce del Pilar de Zaragoza,0,1897,\N,\N,Documentary
+tt0000167,4.6,92,short,Salida de misa de doce del Pilar de Zaragoza,Salida de misa de doce del Pilar de Zaragoza,0,1897,\N,\N,Short
+tt0000168,3.8,6,short,Salida del pÃºblico de la iglesia parroquial de Santa MarÃ­a de Sans,Salida del pÃºblico de la iglesia parroquial de Santa MarÃ­a de Sans,0,1897,\N,1,Documentary
+tt0000168,3.8,6,short,Salida del pÃºblico de la iglesia parroquial de Santa MarÃ­a de Sans,Salida del pÃºblico de la iglesia parroquial de Santa MarÃ­a de Sans,0,1897,\N,1,Short
+tt0000169,4.1,14,short,SlagsmÃ¥l i gamla Stockholm,SlagsmÃ¥l i gamla Stockholm,0,1897,\N,1,Short
+tt0000170,5.3,161,short,The Twins' Tea Party,The Twins' Tea Party,0,1896,\N,1,Comedy
+tt0000170,5.3,161,short,The Twins' Tea Party,The Twins' Tea Party,0,1896,\N,1,Short
+tt0000172,6.0,553,short,The X-Ray Fiend,The X-Ray Fiend,0,1897,\N,1,Comedy
+tt0000172,6.0,553,short,The X-Ray Fiend,The X-Ray Fiend,0,1897,\N,1,Horror
+tt0000172,6.0,553,short,The X-Ray Fiend,The X-Ray Fiend,0,1897,\N,1,Short
+tt0000173,4.8,16,short,Battle of Santiago Bay,Battle of Santiago Bay,0,1898,\N,\N,Short
+tt0000173,4.8,16,short,Battle of Santiago Bay,Battle of Santiago Bay,0,1898,\N,\N,War
+tt0000174,4.9,97,short,VÃ½stavnÃ­ pÃ¡rkar a lepic plakÃ¡tÃ¹,VÃ½stavnÃ­ pÃ¡rkar a lepic plakÃ¡tÃ¹,0,1898,\N,1,Comedy
+tt0000174,4.9,97,short,VÃ½stavnÃ­ pÃ¡rkar a lepic plakÃ¡tÃ¹,VÃ½stavnÃ­ pÃ¡rkar a lepic plakÃ¡tÃ¹,0,1898,\N,1,Short
+tt0000175,4.9,146,short,A Sea Cave Near Lisbon,A Sea Cave Near Lisbon,0,1896,\N,1,Documentary
+tt0000175,4.9,146,short,A Sea Cave Near Lisbon,A Sea Cave Near Lisbon,0,1896,\N,1,Short
+tt0000177,4.6,172,short,The Burglar on the Roof,The Burglar on the Roof,0,1898,\N,1,Crime
+tt0000177,4.6,172,short,The Burglar on the Roof,The Burglar on the Roof,0,1898,\N,1,Short
+tt0000178,5.4,70,short,The Cavalier's Dream,The Cavalier's Dream,0,1898,\N,1,Horror
+tt0000178,5.4,70,short,The Cavalier's Dream,The Cavalier's Dream,0,1898,\N,1,Short
+tt0000179,4.4,17,short,The Cave of the Demons,La caverne maudite,0,1898,\N,\N,Horror
+tt0000179,4.4,17,short,The Cave of the Demons,La caverne maudite,0,1898,\N,\N,Short
+tt0000181,7.0,31,short,Cinderella,Cinderella,0,1898,\N,\N,Fantasy
+tt0000181,7.0,31,short,Cinderella,Cinderella,0,1898,\N,\N,Short
+tt0000182,4.9,433,short,"Come Along, Do!","Come Along, Do!",0,1898,\N,1,Comedy
+tt0000182,4.9,433,short,"Come Along, Do!","Come Along, Do!",0,1898,\N,1,Short
+tt0000183,6.1,14,short,The Corsican Brothers,The Corsican Brothers,0,1898,\N,\N,Drama
+tt0000183,6.1,14,short,The Corsican Brothers,The Corsican Brothers,0,1898,\N,\N,Short
+tt0000184,4.9,231,short,Cripple Creek Bar-Room Scene,Cripple Creek Bar-Room Scene,0,1899,\N,1,Short
+tt0000184,4.9,231,short,Cripple Creek Bar-Room Scene,Cripple Creek Bar-Room Scene,0,1899,\N,1,Western
+tt0000186,4.1,12,short,Le cuirassÃ© Maine,Le cuirassÃ© Maine,0,1898,\N,\N,Short
+tt0000186,4.1,12,short,Le cuirassÃ© Maine,Le cuirassÃ© Maine,0,1898,\N,\N,War
+tt0000187,5.3,29,short,La cÃ¨ne,La cÃ¨ne,0,1898,\N,1,Short
+tt0000190,5.1,108,short,DostavenÃ­cko ve mlÃ½nici,DostavenÃ­cko ve mlÃ½nici,0,1898,\N,1,Comedy
+tt0000190,5.1,108,short,DostavenÃ­cko ve mlÃ½nici,DostavenÃ­cko ve mlÃ½nici,0,1898,\N,1,Short
+tt0000192,4.5,120,short,"Ella Lola, a la Trilby","Ella Lola, a la Trilby",0,1898,\N,\N,Short
+tt0000194,5.4,64,short,Express Train on a Railway Cutting,Express Train on a Railway Cutting,0,1898,\N,\N,Documentary
+tt0000194,5.4,64,short,Express Train on a Railway Cutting,Express Train on a Railway Cutting,0,1898,\N,\N,Short
+tt0000196,4.8,13,short,Faust and Mephistopheles,Faust and Mephistopheles,0,1898,\N,\N,Fantasy
+tt0000196,4.8,13,short,Faust and Mephistopheles,Faust and Mephistopheles,0,1898,\N,\N,Short
+tt0000197,4.9,7,short,La flagellation,La flagellation,0,1898,\N,\N,Short
+tt0000198,4.7,7,short,La fuite en Ã‰gypte,La fuite en Ã‰gypte,0,1898,\N,\N,Short
+tt0000205,5.5,17,short,LeÃ§ons de boxe,LeÃ§ons de boxe,0,1898,\N,1,Comedy
+tt0000205,5.5,17,short,LeÃ§ons de boxe,LeÃ§ons de boxe,0,1898,\N,1,Short
+tt0000205,5.5,17,short,LeÃ§ons de boxe,LeÃ§ons de boxe,0,1898,\N,1,Sport
+tt0000208,5.7,437,short,The Miller and Chimney Sweep,The Miller and the Sweep,0,1897,\N,1,Comedy
+tt0000208,5.7,437,short,The Miller and Chimney Sweep,The Miller and the Sweep,0,1897,\N,1,Short
+tt0000209,4.8,12,short,Photographing a Ghost,Photographing a Ghost,0,1898,\N,\N,Horror
+tt0000209,4.8,12,short,Photographing a Ghost,Photographing a Ghost,0,1898,\N,\N,Short
+tt0000210,5.2,14,short,A Novice at X-rays,Les rayons RÃ¶ntgen,0,1898,\N,1,Short
+tt0000211,7.5,3014,short,A Trip to the Moon,La lune Ã  un mÃ¨tre,0,1898,\N,3,Comedy
+tt0000211,7.5,3014,short,A Trip to the Moon,La lune Ã  un mÃ¨tre,0,1898,\N,3,Fantasy
+tt0000211,7.5,3014,short,A Trip to the Moon,La lune Ã  un mÃ¨tre,0,1898,\N,3,Horror
+tt0000213,4.6,167,short,ScÃ¨ne d'escamotage,ScÃ¨ne d'escamotage,0,1898,\N,1,Short
+tt0000214,4.7,51,short,Tearing Down the Spanish Flag,Tearing Down the Spanish Flag,0,1898,\N,\N,Short
+tt0000214,4.7,51,short,Tearing Down the Spanish Flag,Tearing Down the Spanish Flag,0,1898,\N,\N,War
+tt0000215,4.4,89,short,SmÃ­ch a plÃ¡c,SmÃ­ch a plÃ¡c,0,1898,\N,\N,Documentary
+tt0000215,4.4,89,short,SmÃ­ch a plÃ¡c,SmÃ­ch a plÃ¡c,0,1898,\N,\N,Short
+tt0000218,5.8,449,short,L'affaire Dreyfus,L'affaire Dreyfus,0,1899,\N,13,Biography
+tt0000218,5.8,449,short,L'affaire Dreyfus,L'affaire Dreyfus,0,1899,\N,13,Drama
+tt0000218,5.8,449,short,L'affaire Dreyfus,L'affaire Dreyfus,0,1899,\N,13,Short
+tt0000219,7.2,21,short,Aladdin and the Wonderful Lamp,Aladdin and the Wonderful Lamp,0,1899,\N,\N,Fantasy
+tt0000219,7.2,21,short,Aladdin and the Wonderful Lamp,Aladdin and the Wonderful Lamp,0,1899,\N,\N,Short
+tt0000222,4.6,160,short,Au cabaret,Au cabaret,0,1899,\N,1,Comedy
+tt0000222,4.6,160,short,Au cabaret,Au cabaret,0,1899,\N,1,Short
+tt0000223,6.3,9,short,L'aveugle,L'aveugle,0,1899,\N,\N,Short
+tt0000225,5.6,16,short,Beauty and the Beast,La belle et la bÃªte,0,1899,\N,\N,Family
+tt0000225,5.6,16,short,Beauty and the Beast,La belle et la bÃªte,0,1899,\N,\N,Fantasy
+tt0000225,5.6,16,short,Beauty and the Beast,La belle et la bÃªte,0,1899,\N,\N,Romance
+tt0000228,4.9,188,short,La bonne absinthe,La bonne absinthe,0,1899,\N,1,Short
+tt0000229,4.6,67,short,Casey at the Bat,Casey at the Bat,0,1899,\N,1,Short
+tt0000229,4.6,67,short,Casey at the Bat,Casey at the Bat,0,1899,\N,1,Sport
+tt0000230,6.5,1205,short,Cinderella,Cendrillon,0,1899,\N,6,Drama
+tt0000230,6.5,1205,short,Cinderella,Cendrillon,0,1899,\N,6,Family
+tt0000230,6.5,1205,short,Cinderella,Cendrillon,0,1899,\N,6,Fantasy
+tt0000231,3.8,6,short,Portuguese Railway Train,Portuguese Railway Train,0,1896,\N,1,Documentary
+tt0000231,3.8,6,short,Portuguese Railway Train,Portuguese Railway Train,0,1896,\N,1,Short
+tt0000234,6.3,32,short,Cleopatra's Tomb,ClÃ©opÃ¢tre,0,1899,\N,1,Horror
+tt0000234,6.3,32,short,Cleopatra's Tomb,ClÃ©opÃ¢tre,0,1899,\N,1,Short
+tt0000235,6.3,492,short,Haggard's She: The Pillar of Fire,La colonne de feu,0,1899,\N,1,Adventure
+tt0000235,6.3,492,short,Haggard's She: The Pillar of Fire,La colonne de feu,0,1899,\N,1,Fantasy
+tt0000235,6.3,492,short,Haggard's She: The Pillar of Fire,La colonne de feu,0,1899,\N,1,Horror
+tt0000239,5.5,158,short,Danse serpentine par Mme. Bob Walter,Danse serpentine par Mme. Bob Walter,0,1899,\N,\N,Short
+tt0000240,4.4,44,short,Distributing a War Extra,Distributing a War Extra,0,1899,\N,1,Documentary
+tt0000240,4.4,44,short,Distributing a War Extra,Distributing a War Extra,0,1899,\N,1,Short
+tt0000242,6.3,787,short,The Sign of the Cross,Le diable au couvent,0,1899,\N,3,Fantasy
+tt0000242,6.3,787,short,The Sign of the Cross,Le diable au couvent,0,1899,\N,3,Horror
+tt0000242,6.3,787,short,The Sign of the Cross,Le diable au couvent,0,1899,\N,3,Short
+tt0000245,7.1,19,short,The Haunted House,The Haunted House,0,1899,\N,\N,Comedy
+tt0000245,7.1,19,short,The Haunted House,The Haunted House,0,1899,\N,\N,Fantasy
+tt0000245,7.1,19,short,The Haunted House,The Haunted House,0,1899,\N,\N,Horror
+tt0000246,6.4,849,short,A Turn of the Century Illusionist,L'impressionniste fin de siÃ¨cle,0,1899,\N,1,Fantasy
+tt0000246,6.4,849,short,A Turn of the Century Illusionist,L'impressionniste fin de siÃ¨cle,0,1899,\N,1,Short
+tt0000247,4.9,363,short,King John,King John,0,1899,\N,5,Drama
+tt0000247,4.9,363,short,King John,King John,0,1899,\N,5,Short
+tt0000248,6.0,1179,short,A Kiss in the Tunnel,The Kiss in the Tunnel,0,1899,\N,1,Comedy
+tt0000248,6.0,1179,short,A Kiss in the Tunnel,The Kiss in the Tunnel,0,1899,\N,1,Romance
+tt0000248,6.0,1179,short,A Kiss in the Tunnel,The Kiss in the Tunnel,0,1899,\N,1,Short
+tt0000251,5.5,76,short,Matches: An Appeal,Matches: An Appeal,0,1899,\N,\N,Animation
+tt0000251,5.5,76,short,Matches: An Appeal,Matches: An Appeal,0,1899,\N,\N,Short
+tt0000253,5.2,13,short,The Miser's Doom,The Miser's Doom,0,1899,\N,\N,Horror
+tt0000253,5.2,13,short,The Miser's Doom,The Miser's Doom,0,1899,\N,\N,Short
+tt0000256,4.6,114,short,Panorama from the Tower of the Brooklyn Bridge,Panorama from the Tower of the Brooklyn Bridge,0,1899,\N,\N,Documentary
+tt0000256,4.6,114,short,Panorama from the Tower of the Brooklyn Bridge,Panorama from the Tower of the Brooklyn Bridge,0,1899,\N,\N,Short
+tt0000261,6.0,41,short,A Midnight Episode,Un bon lit,0,1899,\N,1,Comedy
+tt0000261,6.0,41,short,A Midnight Episode,Un bon lit,0,1899,\N,1,Horror
+tt0000261,6.0,41,short,A Midnight Episode,Un bon lit,0,1899,\N,1,Short
+tt0000264,5.7,315,short,Summoning the Spirits,Ã‰vocation spirite,0,1899,\N,1,Fantasy
+tt0000264,5.7,315,short,Summoning the Spirits,Ã‰vocation spirite,0,1899,\N,1,Horror
+tt0000264,5.7,315,short,Summoning the Spirits,Ã‰vocation spirite,0,1899,\N,1,Short
+tt0000265,4.6,91,short,Above the Limit,Above the Limit,0,1900,\N,\N,Comedy
+tt0000265,4.6,91,short,Above the Limit,Above the Limit,0,1900,\N,\N,Short
+tt0000269,5.2,88,short,"Army Life; or, How Soldiers Are Made: Mounted Infantry",Army Life,0,1900,\N,\N,Documentary
+tt0000269,5.2,88,short,"Army Life; or, How Soldiers Are Made: Mounted Infantry",Army Life,0,1900,\N,\N,Short
+tt0000271,7.3,6,short,ArrivÃ©e de Pierette et Pierrot,ArrivÃ©e de Pierette et Pierrot,0,1900,\N,\N,Short
+tt0000272,5.6,611,short,As Seen Through a Telescope,As Seen Through a Telescope,0,1900,\N,1,Comedy
+tt0000272,5.6,611,short,As Seen Through a Telescope,As Seen Through a Telescope,0,1900,\N,1,Short
+tt0000273,5.5,412,short,Attack on a China Mission,Attack on a China Mission,0,1900,\N,4,Drama
+tt0000273,5.5,412,short,Attack on a China Mission,Attack on a China Mission,0,1900,\N,4,Short
+tt0000273,5.5,412,short,Attack on a China Mission,Attack on a China Mission,0,1900,\N,4,War
+tt0000274,5.6,165,short,Avenue de l'opÃ©ra,Avenue de l'opÃ©ra,0,1900,\N,1,Comedy
+tt0000274,5.6,165,short,Avenue de l'opÃ©ra,Avenue de l'opÃ©ra,0,1900,\N,1,Short
+tt0000276,7.6,8,short,Bataille d'oreillers,Bataille d'oreillers,0,1900,\N,\N,Short
+tt0000277,6.3,45,short,Bataille de boules de neige,Bataille de boules de neige,0,1900,\N,\N,Short
+tt0000278,6.2,5,short,Buffalo Bill's Show Parade,Buffalo Bill's Show Parade,0,1900,\N,\N,Short
+tt0000279,5.4,5,short,Buffalo Bill's Wild West Parade,Buffalo Bill's Wild West Parade,0,1900,\N,\N,News
+tt0000279,5.4,5,short,Buffalo Bill's Wild West Parade,Buffalo Bill's Wild West Parade,0,1900,\N,\N,Short
+tt0000280,5.2,6,short,Buffalo Bill's Wild West Parade,Buffalo Bill's Wild West Parade,0,1900,\N,\N,News
+tt0000280,5.2,6,short,Buffalo Bill's Wild West Parade,Buffalo Bill's Wild West Parade,0,1900,\N,\N,Short
+tt0000281,6.0,6,short,Buffalo Bill's Wild West Show,Buffalo Bill's Wild West Show,0,1900,\N,\N,News
+tt0000281,6.0,6,short,Buffalo Bill's Wild West Show,Buffalo Bill's Wild West Show,0,1900,\N,\N,Short
+tt0000283,6.3,11,short,Chez le MarÃ©chal-Ferrant,Chez le MarÃ©chal-Ferrant,0,1900,\N,\N,Short
+tt0000284,5.4,157,short,Chez le photographe,Chez le photographe,0,1900,\N,1,Short
+tt0000286,5.7,151,short,Chirurgie fin de siÃ¨cle,Chirurgie fin de siÃ¨cle,0,1900,\N,2,Comedy
+tt0000286,5.7,151,short,Chirurgie fin de siÃ¨cle,Chirurgie fin de siÃ¨cle,0,1900,\N,2,Short
+tt0000287,5.0,112,short,The Clown and the Alchemist,The Clown and the Alchemist,0,1900,\N,\N,Comedy
+tt0000287,5.0,112,short,The Clown and the Alchemist,The Clown and the Alchemist,0,1900,\N,\N,Fantasy
+tt0000287,5.0,112,short,The Clown and the Alchemist,The Clown and the Alchemist,0,1900,\N,\N,Short
+tt0000288,5.4,142,short,La concierge,La concierge,0,1900,\N,1,Comedy
+tt0000288,5.4,142,short,La concierge,La concierge,0,1900,\N,1,Short
+tt0000292,5.5,57,short,Danse du papillon,Danse du papillon,0,1900,\N,\N,Documentary
+tt0000292,5.5,57,short,Danse du papillon,Danse du papillon,0,1900,\N,\N,Short
+tt0000296,5.9,190,short,Danse serpentine,Danse serpentine,0,1900,\N,2,Documentary
+tt0000296,5.9,190,short,Danse serpentine,Danse serpentine,0,1900,\N,2,Short
+tt0000299,5.6,154,short,Le dÃ©part d'Arlequin et de Pierrette,Le dÃ©part d'Arlequin et de Pierrette,0,1900,\N,2,Short
+tt0000300,6.9,964,short,The Enchanted Drawing,The Enchanted Drawing,0,1900,\N,2,Animation
+tt0000300,6.9,964,short,The Enchanted Drawing,The Enchanted Drawing,0,1900,\N,2,Comedy
+tt0000300,6.9,964,short,The Enchanted Drawing,The Enchanted Drawing,0,1900,\N,2,Fantasy
+tt0000301,4.4,275,short,Faust and Marguerite,Faust and Marguerite,0,1900,\N,1,Fantasy
+tt0000301,4.4,275,short,Faust and Marguerite,Faust and Marguerite,0,1900,\N,1,Horror
+tt0000301,4.4,275,short,Faust and Marguerite,Faust and Marguerite,0,1900,\N,1,Short
+tt0000302,5.2,111,short,"La fÃ©e aux choux, ou la naissance des enfants","La fÃ©e aux choux, ou la naissance des enfants",0,1900,\N,1,Short
+tt0000304,6.0,926,short,Grandma's Reading Glass,Grandma's Reading Glass,0,1900,\N,2,Family
+tt0000304,6.0,926,short,Grandma's Reading Glass,Grandma's Reading Glass,0,1900,\N,2,Short
+tt0000306,5.4,152,short,Le duel d'Hamlet,Le duel d'Hamlet,0,1900,\N,2,Drama
+tt0000306,5.4,152,short,Le duel d'Hamlet,Le duel d'Hamlet,0,1900,\N,2,Short
+tt0000307,5.0,55,short,Happy Hooligan,Happy Hooligan,0,1900,\N,\N,Comedy
+tt0000307,5.0,55,short,Happy Hooligan,Happy Hooligan,0,1900,\N,\N,Short
+tt0000308,5.7,46,short,The House That Jack Built,The House That Jack Built,0,1900,\N,1,Short
+tt0000309,6.1,652,short,How It Feels to Be Run Over,How It Feels to Be Run Over,0,1900,\N,1,Short
+tt0000310,7.1,14,short,Chimmie Hicks and the Rum Omelet,Chimmie Hicks and the Rum Omelet,0,1900,\N,\N,Comedy
+tt0000310,7.1,14,short,Chimmie Hicks and the Rum Omelet,Chimmie Hicks and the Rum Omelet,0,1900,\N,\N,Short
+tt0000313,5.9,603,short,Let Me Dream Again,Let Me Dream Again,0,1900,\N,1,Comedy
+tt0000313,5.9,603,short,Let Me Dream Again,Let Me Dream Again,0,1900,\N,1,Short
+tt0000319,6.0,95,short,Maple Leaf Viewing,Momijigari,0,1899,\N,6,Short
+tt0000321,4.9,155,short,The Mystic Swing,The Mystic Swing,0,1900,\N,1,Fantasy
+tt0000321,4.9,155,short,The Mystic Swing,The Mystic Swing,0,1900,\N,1,Short
+tt0000328,7.2,6,short,La petite magicienne,La petite magicienne,0,1900,\N,\N,Short
+tt0000335,6.1,40,movie,Soldiers of the Cross,Soldiers of the Cross,0,1900,\N,\N,Biography
+tt0000335,6.1,40,movie,Soldiers of the Cross,Soldiers of the Cross,0,1900,\N,\N,Drama
+tt0000337,5.1,294,short,Spanish Bullfight,Spanish Bullfight,0,1900,\N,1,Short
+tt0000337,5.1,294,short,Spanish Bullfight,Spanish Bullfight,0,1900,\N,1,Sport
+tt0000340,5.0,202,short,Uncle Josh in a Spooky Hotel,Uncle Josh in a Spooky Hotel,0,1900,\N,1,Comedy
+tt0000340,5.0,202,short,Uncle Josh in a Spooky Hotel,Uncle Josh in a Spooky Hotel,0,1900,\N,1,Fantasy
+tt0000340,5.0,202,short,Uncle Josh in a Spooky Hotel,Uncle Josh in a Spooky Hotel,0,1900,\N,1,Short
+tt0000341,4.9,265,short,Uncle Josh's Nightmare,Uncle Josh's Nightmare,0,1900,\N,2,Comedy
+tt0000341,4.9,265,short,Uncle Josh's Nightmare,Uncle Josh's Nightmare,0,1900,\N,2,Fantasy
+tt0000341,4.9,265,short,Uncle Josh's Nightmare,Uncle Josh's Nightmare,0,1900,\N,2,Short
+tt0000346,4.9,155,short,Another Job for the Undertaker,Another Job for the Undertaker,0,1901,\N,2,Comedy
+tt0000346,4.9,155,short,Another Job for the Undertaker,Another Job for the Undertaker,0,1901,\N,2,Short
+tt0000347,4.4,72,short,Buffalo Bill's Wild West Parade,Buffalo Bill's Wild West Parade,0,1901,\N,2,Documentary
+tt0000347,4.4,72,short,Buffalo Bill's Wild West Parade,Buffalo Bill's Wild West Parade,0,1901,\N,2,News
+tt0000347,4.4,72,short,Buffalo Bill's Wild West Parade,Buffalo Bill's Wild West Parade,0,1901,\N,2,Short
+tt0000349,5.9,82,short,"What Came Out of the Cheese; or, The Lilliputians in a New York Restaurant","The Cheese Mites, or Lilliputians in a London Restaurant",0,1901,\N,1,Comedy
+tt0000349,5.9,82,short,"What Came Out of the Cheese; or, The Lilliputians in a New York Restaurant","The Cheese Mites, or Lilliputians in a London Restaurant",0,1901,\N,1,Short
+tt0000350,5.8,550,short,The Countryman's First Sight of the Animated Pictures,The Countryman and the Cinematograph,0,1901,\N,1,Comedy
+tt0000350,5.8,550,short,The Countryman's First Sight of the Animated Pictures,The Countryman and the Cinematograph,0,1901,\N,1,Short
+tt0000352,6.1,17,short,Day at the Circus,Day at the Circus,0,1901,\N,\N,Documentary
+tt0000352,6.1,17,short,Day at the Circus,Day at the Circus,0,1901,\N,\N,Short
+tt0000353,5.2,262,short,Execution of Czolgosz with Panorama of Auburn Prison,Execution of Czolgosz with Panorama of Auburn Prison,0,1901,\N,4,Drama
+tt0000353,5.2,262,short,Execution of Czolgosz with Panorama of Auburn Prison,Execution of Czolgosz with Panorama of Auburn Prison,0,1901,\N,4,History
+tt0000353,5.2,262,short,Execution of Czolgosz with Panorama of Auburn Prison,Execution of Czolgosz with Panorama of Auburn Prison,0,1901,\N,4,Short
+tt0000355,6.1,502,short,Fire!,Fire!,0,1901,\N,5,Drama
+tt0000355,6.1,502,short,Fire!,Fire!,0,1901,\N,5,Short
+tt0000357,5.8,296,short,The Haunted Curiosity Shop,The Haunted Curiosity Shop,0,1901,\N,2,Comedy
+tt0000357,5.8,296,short,The Haunted Curiosity Shop,The Haunted Curiosity Shop,0,1901,\N,2,Fantasy
+tt0000357,5.8,296,short,The Haunted Curiosity Shop,The Haunted Curiosity Shop,0,1901,\N,2,Horror
+tt0000358,6.1,520,short,History of a Crime,Histoire d'un crime,0,1901,\N,5,Crime
+tt0000358,6.1,520,short,History of a Crime,Histoire d'un crime,0,1901,\N,5,Drama
+tt0000358,6.1,520,short,History of a Crime,Histoire d'un crime,0,1901,\N,5,Short
+tt0000359,7.1,2253,short,The India Rubber Head,L'homme Ã  la tÃªte en caoutchouc,0,1901,\N,3,Comedy
+tt0000359,7.1,2253,short,The India Rubber Head,L'homme Ã  la tÃªte en caoutchouc,0,1901,\N,3,Fantasy
+tt0000359,7.1,2253,short,The India Rubber Head,L'homme Ã  la tÃªte en caoutchouc,0,1901,\N,3,Short
+tt0000361,8.1,10,short,Lavatory moderne,Lavatory moderne,0,1901,\N,\N,Short
+tt0000363,6.3,100,short,Magical Sword,The Magic Sword,0,1901,\N,2,Fantasy
+tt0000363,6.3,100,short,Magical Sword,The Magic Sword,0,1901,\N,2,Romance
+tt0000363,6.3,100,short,Magical Sword,The Magic Sword,0,1901,\N,2,Short
+tt0000364,5.4,110,short,Panorama of Esplanade by Night,Panorama of Esplanade by Night,0,1901,\N,1,Documentary
+tt0000364,5.4,110,short,Panorama of Esplanade by Night,Panorama of Esplanade by Night,0,1901,\N,1,Short
+tt0000368,7.0,8,short,Little Red Riding Hood,Le petit chaperon rouge,0,1901,\N,\N,Fantasy
+tt0000368,7.0,8,short,Little Red Riding Hood,Le petit chaperon rouge,0,1901,\N,\N,Short
+tt0000370,5.5,314,short,Scrooge; or Marley's Ghost,Scrooge; or Marley's Ghost,0,1901,\N,6,Drama
+tt0000370,5.5,314,short,Scrooge; or Marley's Ghost,Scrooge; or Marley's Ghost,0,1901,\N,6,Fantasy
+tt0000370,5.5,314,short,Scrooge; or Marley's Ghost,Scrooge; or Marley's Ghost,0,1901,\N,6,Short
+tt0000373,6.1,45,short,The Devil's Seven Castles,Les sept chÃ¢teaux du diable,0,1904,\N,11,Drama
+tt0000373,6.1,45,short,The Devil's Seven Castles,Les sept chÃ¢teaux du diable,0,1904,\N,11,Horror
+tt0000373,6.1,45,short,The Devil's Seven Castles,Les sept chÃ¢teaux du diable,0,1904,\N,11,Short
+tt0000376,7.8,6,short,A tÃ¡ncz,A tÃ¡ncz,0,1901,\N,\N,Documentary
+tt0000376,7.8,6,short,A tÃ¡ncz,A tÃ¡ncz,0,1901,\N,\N,Short
+tt0000377,6.5,84,short,Undressing Extraordinary,Undressing Extraordinary,0,1901,\N,3,Comedy
+tt0000377,6.5,84,short,Undressing Extraordinary,Undressing Extraordinary,0,1901,\N,3,Short
+tt0000379,5.2,6,short,Visita de la escuadra inglesa a Barcelona,Visita de la escuadra inglesa a Barcelona,0,1901,\N,6,Documentary
+tt0000379,5.2,6,short,Visita de la escuadra inglesa a Barcelona,Visita de la escuadra inglesa a Barcelona,0,1901,\N,6,Short
+tt0000380,7.2,13,short,Sleeping Beauty,La belle au bois dormant,0,1903,\N,\N,Drama
+tt0000380,7.2,13,short,Sleeping Beauty,La belle au bois dormant,0,1903,\N,\N,Fantasy
+tt0000380,7.2,13,short,Sleeping Beauty,La belle au bois dormant,0,1903,\N,\N,Short
+tt0000381,4.1,8,short,Buffalo Bill's Wild West Show,Buffalo Bill's Wild West Show,0,1902,\N,\N,News
+tt0000381,4.1,8,short,Buffalo Bill's Wild West Show,Buffalo Bill's Wild West Show,0,1902,\N,\N,Short
+tt0000384,5.8,163,short,Les chiens savants,Les chiens savants,0,1902,\N,3,Documentary
+tt0000384,5.8,163,short,Les chiens savants,Les chiens savants,0,1902,\N,3,Short
+tt0000387,5.2,248,short,The Coronation of King Edward VII,The Coronation of Edward VII,0,1902,\N,4,History
+tt0000387,5.2,248,short,The Coronation of King Edward VII,The Coronation of Edward VII,0,1902,\N,4,Short
+tt0000388,5.2,85,short,Danse excentrique,Danse excentrique,0,1902,\N,\N,Short
+tt0000399,6.1,602,short,Jack and the Beanstalk,Jack and the Beanstalk,0,1902,\N,10,Fantasy
+tt0000399,6.1,602,short,Jack and the Beanstalk,Jack and the Beanstalk,0,1902,\N,10,Short
+tt0000400,7.0,9,short,Le lion savant,Le lion savant,0,1902,\N,\N,Comedy
+tt0000400,7.0,9,short,Le lion savant,Le lion savant,0,1902,\N,\N,Short
+tt0000406,6.2,18,short,The Prince of Darkness,The Prince of Darkness,0,1900,\N,\N,Horror
+tt0000406,6.2,18,short,The Prince of Darkness,The Prince of Darkness,0,1900,\N,\N,Short
+tt0000407,3.8,24,short,ProcesiÃ³n de las hijas de MarÃ­a de la parroquia de Sans,ProcesiÃ³n de las hijas de MarÃ­a de la parroquia de Sans,0,1902,\N,\N,Documentary
+tt0000407,3.8,24,short,ProcesiÃ³n de las hijas de MarÃ­a de la parroquia de Sans,ProcesiÃ³n de las hijas de MarÃ­a de la parroquia de Sans,0,1902,\N,\N,Short
+tt0000409,5.2,144,short,Midwife to the Upper Classes,Sage-femme de premiÃ¨re classe,0,1902,\N,4,Comedy
+tt0000409,5.2,144,short,Midwife to the Upper Classes,Sage-femme de premiÃ¨re classe,0,1902,\N,4,Short
+tt0000410,6.7,813,short,Demolishing and Building Up the Star Theatre,Demolishing and Building Up the Star Theatre,0,1901,\N,2,Documentary
+tt0000410,6.7,813,short,Demolishing and Building Up the Star Theatre,Demolishing and Building Up the Star Theatre,0,1901,\N,2,Short
+tt0000412,4.1,7,short,The Troublesome Fly,The Troublesome Fly,0,1900,\N,\N,Comedy
+tt0000412,4.1,7,short,The Troublesome Fly,The Troublesome Fly,0,1900,\N,\N,Horror
+tt0000412,4.1,7,short,The Troublesome Fly,The Troublesome Fly,0,1900,\N,\N,Short
+tt0000413,5.5,303,short,The Devil's Money Bags,Les trÃ©sors de satan,0,1902,\N,3,Comedy
+tt0000413,5.5,303,short,The Devil's Money Bags,Les trÃ©sors de satan,0,1902,\N,3,Fantasy
+tt0000413,5.5,303,short,The Devil's Money Bags,Les trÃ©sors de satan,0,1902,\N,3,Horror
+tt0000414,5.3,599,short,Uncle Josh at the Moving Picture Show,Uncle Josh at the Moving Picture Show,0,1902,\N,2,Comedy
+tt0000414,5.3,599,short,Uncle Josh at the Moving Picture Show,Uncle Josh at the Moving Picture Show,0,1902,\N,2,Short
+tt0000416,5.5,93,short,Alcohol and Its Victims,Les victimes de l'alcoolisme,0,1902,\N,4,Drama
+tt0000416,5.5,93,short,Alcohol and Its Victims,Les victimes de l'alcoolisme,0,1902,\N,4,Short
+tt0000417,8.2,39680,short,A Trip to the Moon,Le voyage dans la lune,0,1902,\N,13,Action
+tt0000417,8.2,39680,short,A Trip to the Moon,Le voyage dans la lune,0,1902,\N,13,Adventure
+tt0000417,8.2,39680,short,A Trip to the Moon,Le voyage dans la lune,0,1902,\N,13,Comedy
+tt0000420,6.3,2163,short,Alice in Wonderland,Alice in Wonderland,0,1903,\N,8,Fantasy
+tt0000420,6.3,2163,short,Alice in Wonderland,Alice in Wonderland,0,1903,\N,8,Short
+tt0000423,5.5,165,short,The Enchanted Box,La boÃ®te Ã  malice,0,1903,\N,1,Fantasy
+tt0000423,5.5,165,short,The Enchanted Box,La boÃ®te Ã  malice,0,1903,\N,1,Short
+tt0000425,5.2,10,short,Buffalo Bill's Parade,Buffalo Bill's Parade,0,1903,\N,\N,Documentary
+tt0000425,5.2,10,short,Buffalo Bill's Parade,Buffalo Bill's Parade,0,1903,\N,\N,Short
+tt0000426,5.6,5,short,Buffalo Bill's Street Parade,Buffalo Bill's Street Parade,0,1903,\N,\N,Documentary
+tt0000426,5.6,5,short,Buffalo Bill's Street Parade,Buffalo Bill's Street Parade,0,1903,\N,\N,Short
+tt0000430,6.0,557,short,A Chess Dispute,A Chess Dispute,0,1903,\N,1,Comedy
+tt0000430,6.0,557,short,A Chess Dispute,A Chess Dispute,0,1903,\N,1,Short
+tt0000432,5.6,147,short,How Monsieur Takes His Bath,Comment monsieur prend son bain,0,1903,\N,1,Comedy
+tt0000432,5.6,147,short,How Monsieur Takes His Bath,Comment monsieur prend son bain,0,1903,\N,1,Short
+tt0000436,6.2,414,short,An Extraordinary Cab Accident,An Extraordinary Cab Accident,0,1903,\N,1,Comedy
+tt0000436,6.2,414,short,An Extraordinary Cab Accident,An Extraordinary Cab Accident,0,1903,\N,1,Short
+tt0000437,5.1,157,short,Faust et MÃ©phistophÃ©lÃ¨s,Faust et MÃ©phistophÃ©lÃ¨s,0,1903,\N,2,Drama
+tt0000437,5.1,157,short,Faust et MÃ©phistophÃ©lÃ¨s,Faust et MÃ©phistophÃ©lÃ¨s,0,1903,\N,2,Horror
+tt0000437,5.1,157,short,Faust et MÃ©phistophÃ©lÃ¨s,Faust et MÃ©phistophÃ©lÃ¨s,0,1903,\N,2,Short
+tt0000439,7.3,15511,short,The Great Train Robbery,The Great Train Robbery,0,1903,\N,11,Action
+tt0000439,7.3,15511,short,The Great Train Robbery,The Great Train Robbery,0,1903,\N,11,Crime
+tt0000439,7.3,15511,short,The Great Train Robbery,The Great Train Robbery,0,1903,\N,11,Short
+tt0000440,5.4,164,short,La guirlande merveilleuse,La guirlande merveilleuse,0,1903,\N,4,Fantasy
+tt0000440,5.4,164,short,La guirlande merveilleuse,La guirlande merveilleuse,0,1903,\N,4,Short
+tt0000441,7.0,5,short,Gulliver en el paÃ­s de los gigantes,Gulliver en el paÃ­s de los gigantes,0,1903,\N,\N,Short
+tt0000442,4.7,46,short,Capital Execution,Henrettelsen,0,1903,\N,\N,Drama
+tt0000442,4.7,46,short,Capital Execution,Henrettelsen,0,1903,\N,\N,Short
+tt0000446,5.7,6,short,Kit Carson,Kit Carson,0,1903,\N,21,Short
+tt0000446,5.7,6,short,Kit Carson,Kit Carson,0,1903,\N,21,Western
+tt0000447,6.4,1880,short,Life of an American Fireman,Life of an American Fireman,0,1903,\N,6,Action
+tt0000447,6.4,1880,short,Life of an American Fireman,Life of an American Fireman,0,1903,\N,6,Short
+tt0000451,6.6,655,short,Mary Jane's Mishap,Mary Jane's Mishap,0,1903,\N,4,Comedy
+tt0000451,6.6,655,short,Mary Jane's Mishap,Mary Jane's Mishap,0,1903,\N,4,Short
+tt0000452,4.7,77,short,The Messenger Boy's Mistake,The Messenger Boy's Mistake,0,1903,\N,2,Comedy
+tt0000452,4.7,77,short,The Messenger Boy's Mistake,The Messenger Boy's Mistake,0,1903,\N,2,Romance
+tt0000452,4.7,77,short,The Messenger Boy's Mistake,The Messenger Boy's Mistake,0,1903,\N,2,Short
+tt0000455,6.8,1566,short,The Music Lover,Le mÃ©lomane,0,1903,\N,3,Comedy
+tt0000455,6.8,1566,short,The Music Lover,Le mÃ©lomane,0,1903,\N,3,Music
+tt0000455,6.8,1566,short,The Music Lover,Le mÃ©lomane,0,1903,\N,3,Short
+tt0000456,4.1,32,short,N.Y. Fire Department Returning,N.Y. Fire Department Returning,0,1903,\N,\N,Documentary
+tt0000456,4.1,32,short,N.Y. Fire Department Returning,N.Y. Fire Department Returning,0,1903,\N,\N,Short
+tt0000459,4.4,44,short,"Panorama of Riker's Island, N.Y.","Panorama of Riker's Island, N.Y.",0,1903,\N,2,Documentary
+tt0000459,4.4,44,short,"Panorama of Riker's Island, N.Y.","Panorama of Riker's Island, N.Y.",0,1903,\N,2,Short
+tt0000464,4.7,312,short,Rip Van Winkle,Rip Van Winkle,0,1903,\N,4,Comedy
+tt0000464,4.7,312,short,Rip Van Winkle,Rip Van Winkle,0,1903,\N,4,Short
+tt0000465,7.3,1002,short,"Fairyland; or, the Kingdom of the Fairies",Le royaume des fÃ©es,0,1903,\N,16,Adventure
+tt0000465,7.3,1002,short,"Fairyland; or, the Kingdom of the Fairies",Le royaume des fÃ©es,0,1903,\N,16,Fantasy
+tt0000465,7.3,1002,short,"Fairyland; or, the Kingdom of the Fairies",Le royaume des fÃ©es,0,1903,\N,16,Short
+tt0000469,5.8,809,short,The Sick Kitten,The Sick Kitten,0,1903,\N,1,Comedy
+tt0000469,5.8,809,short,The Sick Kitten,The Sick Kitten,0,1903,\N,1,Family
+tt0000469,5.8,809,short,The Sick Kitten,The Sick Kitten,0,1903,\N,1,Short
+tt0000471,5.1,367,short,Uncle Tom's Cabin,Uncle Tom's Cabin,0,1903,\N,13,Drama
+tt0000471,5.1,367,short,Uncle Tom's Cabin,Uncle Tom's Cabin,0,1903,\N,13,Short
+tt0000472,6.6,11,short,Uncle Tom's Cabin,Uncle Tom's Cabin,0,1903,\N,\N,Drama
+tt0000472,6.6,11,short,Uncle Tom's Cabin,Uncle Tom's Cabin,0,1903,\N,\N,Short
+tt0000479,5.4,307,short,Rum vs. Cherries,Buy Your Own Cherries,0,1904,\N,4,Drama
+tt0000479,5.4,307,short,Rum vs. Cherries,Buy Your Own Cherries,0,1904,\N,4,Short
+tt0000480,5.0,143,short,Le coffre enchantÃ©,Le coffre enchantÃ©,0,1904,\N,3,Fantasy
+tt0000480,5.0,143,short,Le coffre enchantÃ©,Le coffre enchantÃ©,0,1904,\N,3,Short
+tt0000487,7.1,354,short,The Great Train Robbery,The Great Train Robbery,0,1903,\N,12,Short
+tt0000487,7.1,354,short,The Great Train Robbery,The Great Train Robbery,0,1903,\N,12,Western
+tt0000488,6.9,628,short,The Land Beyond the Sunset,The Land Beyond the Sunset,0,1912,\N,14,Drama
+tt0000488,6.9,628,short,The Land Beyond the Sunset,The Land Beyond the Sunset,0,1912,\N,14,Fantasy
+tt0000488,6.9,628,short,The Land Beyond the Sunset,The Land Beyond the Sunset,0,1912,\N,14,Short
+tt0000491,3.9,35,short,Opening the Williamsburg Bridge,Opening the Williamsburg Bridge,0,1904,\N,\N,News
+tt0000491,3.9,35,short,Opening the Williamsburg Bridge,Opening the Williamsburg Bridge,0,1904,\N,\N,Short
+tt0000492,4.9,70,short,Personal,Personal,0,1904,\N,6,Comedy
+tt0000492,4.9,70,short,Personal,Personal,0,1904,\N,6,Short
+tt0000495,6.1,75,short,The Pearl Fisher,Le pÃªcheur de perles,0,1907,\N,12,Fantasy
+tt0000495,6.1,75,short,The Pearl Fisher,Le pÃªcheur de perles,0,1907,\N,12,Short
+tt0000496,6.2,32,short,Railroad Smashup,Railroad Smashup,0,1904,\N,\N,Action
+tt0000496,6.2,32,short,Railroad Smashup,Railroad Smashup,0,1904,\N,\N,Short
+tt0000497,5.3,37,short,A Railway Tragedy,A Railway Tragedy,0,1904,\N,5,Crime
+tt0000497,5.3,37,short,A Railway Tragedy,A Railway Tragedy,0,1904,\N,5,Short
+tt0000498,6.6,930,short,Rescued by Rover,Rescued by Rover,0,1905,\N,7,Drama
+tt0000498,6.6,930,short,Rescued by Rover,Rescued by Rover,0,1905,\N,7,Family
+tt0000498,6.6,930,short,Rescued by Rover,Rescued by Rover,0,1905,\N,7,Short
+tt0000499,7.6,2861,short,The Impossible Voyage,Le voyage Ã  travers l'impossible,0,1904,\N,24,Action
+tt0000499,7.6,2861,short,The Impossible Voyage,Le voyage Ã  travers l'impossible,0,1904,\N,24,Adventure
+tt0000499,7.6,2861,short,The Impossible Voyage,Le voyage Ã  travers l'impossible,0,1904,\N,24,Family
+tt0000501,4.8,22,short,Adventures of Sherlock Holmes,Adventures of Sherlock Holmes,0,1905,\N,\N,Crime
+tt0000501,4.8,22,short,Adventures of Sherlock Holmes,Adventures of Sherlock Holmes,0,1905,\N,\N,Drama
+tt0000501,4.8,22,short,Adventures of Sherlock Holmes,Adventures of Sherlock Holmes,0,1905,\N,\N,Mystery
+tt0000505,8.1,11,short,The Wig Chase,La course Ã  la perruque,0,1906,\N,\N,Comedy
+tt0000505,8.1,11,short,The Wig Chase,La course Ã  la perruque,0,1906,\N,\N,Short
+tt0000506,5.8,5,short,The Effects of Too Much Scotch,"D.T.'s, or the Effect of Drink",0,1905,\N,\N,Drama
+tt0000506,5.8,5,short,The Effects of Too Much Scotch,"D.T.'s, or the Effect of Drink",0,1905,\N,\N,Short
+tt0000507,3.8,25,short,Departure of Peary and the Roosevelt from New York,Departure of Peary and the Roosevelt from New York,0,1905,\N,\N,News
+tt0000507,3.8,25,short,Departure of Peary and the Roosevelt from New York,Departure of Peary and the Roosevelt from New York,0,1905,\N,\N,Short
+tt0000509,6.2,18,short,The Inexperienced Chauffeur,Les dÃ©buts d'un chauffeur,0,1906,\N,\N,Comedy
+tt0000509,6.2,18,short,The Inexperienced Chauffeur,Les dÃ©buts d'un chauffeur,0,1906,\N,\N,Short
+tt0000511,7.1,21,short,Esmeralda,Esmeralda,0,1905,\N,10,Drama
+tt0000511,7.1,21,short,Esmeralda,Esmeralda,0,1905,\N,10,Short
+tt0000512,4.5,35,short,Funeral of Hiram Cronk,Funeral of Hiram Cronk,0,1905,\N,\N,News
+tt0000512,4.5,35,short,Funeral of Hiram Cronk,Funeral of Hiram Cronk,0,1905,\N,\N,Short
+tt0000512,4.5,35,short,Funeral of Hiram Cronk,Funeral of Hiram Cronk,0,1905,\N,\N,War
+tt0000515,4.8,59,short,Los guapos del parque,Los guapos del parque,0,1905,\N,6,Comedy
+tt0000515,4.8,59,short,Los guapos del parque,Los guapos del parque,0,1905,\N,6,Short
+tt0000516,6.6,770,short,The Electric Hotel,El hotel elÃ©ctrico,0,1908,\N,8,Animation
+tt0000516,6.6,770,short,The Electric Hotel,El hotel elÃ©ctrico,0,1908,\N,8,Fantasy
+tt0000516,6.6,770,short,The Electric Hotel,El hotel elÃ©ctrico,0,1908,\N,8,Sci-Fi
+tt0000519,5.7,271,short,The Kleptomaniac,The Kleptomaniac,0,1905,\N,8,Crime
+tt0000519,5.7,271,short,The Kleptomaniac,The Kleptomaniac,0,1905,\N,8,Drama
+tt0000519,5.7,271,short,The Kleptomaniac,The Kleptomaniac,0,1905,\N,8,Short
+tt0000520,6.8,26,short,The Life of Charles Peace,The Life of Charles Peace,0,1905,\N,\N,Biography
+tt0000520,6.8,26,short,The Life of Charles Peace,The Life of Charles Peace,0,1905,\N,\N,Crime
+tt0000520,6.8,26,short,The Life of Charles Peace,The Life of Charles Peace,0,1905,\N,\N,Short
+tt0000521,5.5,223,short,The Little Train Robbery,The Little Train Robbery,0,1905,\N,12,Action
+tt0000521,5.5,223,short,The Little Train Robbery,The Little Train Robbery,0,1905,\N,12,Crime
+tt0000521,5.5,223,short,The Little Train Robbery,The Little Train Robbery,0,1905,\N,12,Family
+tt0000524,5.7,610,short,New York Subway,New York Subway,0,1905,\N,6,Documentary
+tt0000524,5.7,610,short,New York Subway,New York Subway,0,1905,\N,6,Short
+tt0000525,5.4,29,short,Hanging at Jefferson City,Pendaison Ã  Jefferson City,0,1910,\N,7,Short
+tt0000525,5.4,29,short,Hanging at Jefferson City,Pendaison Ã  Jefferson City,0,1910,\N,7,Western
+tt0000526,4.3,37,short,Pennsylvania Tunnel Excavation,Pennsylvania Tunnel Excavation,0,1905,\N,\N,Documentary
+tt0000526,4.3,37,short,Pennsylvania Tunnel Excavation,Pennsylvania Tunnel Excavation,0,1905,\N,\N,Short
+tt0000528,6.7,7,short,"Raffles, the Amateur Cracksman","Raffles, the Amateur Cracksman",0,1905,\N,15,Adventure
+tt0000528,6.7,7,short,"Raffles, the Amateur Cracksman","Raffles, the Amateur Cracksman",0,1905,\N,15,Romance
+tt0000528,6.7,7,short,"Raffles, the Amateur Cracksman","Raffles, the Amateur Cracksman",0,1905,\N,15,Short
+tt0000533,7.2,18,short,The Wooing and Wedding of a Coon,The Wooing and Wedding of a Coon,0,1907,\N,\N,Comedy
+tt0000533,7.2,18,short,The Wooing and Wedding of a Coon,The Wooing and Wedding of a Coon,0,1907,\N,\N,Short
+tt0000534,6.6,845,short,The '?' Motorist,The '?' Motorist,0,1906,\N,3,Comedy
+tt0000534,6.6,845,short,The '?' Motorist,The '?' Motorist,0,1906,\N,3,Fantasy
+tt0000534,6.6,845,short,The '?' Motorist,The '?' Motorist,0,1906,\N,3,Sci-Fi
+tt0000535,4.9,37,short,The Anarchist's Mother-in-Law,Anarkistens svigermor,0,1906,\N,4,Comedy
+tt0000535,4.9,37,short,The Anarchist's Mother-in-Law,Anarkistens svigermor,0,1906,\N,4,Short
+tt0000537,4.1,50,short,"Arrival of Emigrants, Ellis Island","Arrival of Emigrants, Ellis Island",0,1906,\N,4,Documentary
+tt0000537,4.1,50,short,"Arrival of Emigrants, Ellis Island","Arrival of Emigrants, Ellis Island",0,1906,\N,4,Short
+tt0000543,5.2,12,short,Christian IXS bisÃ¦ttelse,Christian IXS bisÃ¦ttelse,0,1906,\N,15,Documentary
+tt0000543,5.2,12,short,Christian IXS bisÃ¦ttelse,Christian IXS bisÃ¦ttelse,0,1906,\N,15,Short
+tt0000546,6.7,1557,short,Dream of a Rarebit Fiend,Dream of a Rarebit Fiend,0,1906,\N,7,Comedy
+tt0000546,6.7,1557,short,Dream of a Rarebit Fiend,Dream of a Rarebit Fiend,0,1906,\N,7,Fantasy
+tt0000546,6.7,1557,short,Dream of a Rarebit Fiend,Dream of a Rarebit Fiend,0,1906,\N,7,Short
+tt0000548,6.2,5,short,Fiskerliv i Norden,Fiskerliv i Norden,0,1906,\N,\N,Short
+tt0000550,4.4,8,short,Proklamationen af Kong Frederik d. VIII,Proklamationen af Kong Frederik d. VIII,0,1906,\N,3,News
+tt0000550,4.4,8,short,Proklamationen af Kong Frederik d. VIII,Proklamationen af Kong Frederik d. VIII,0,1906,\N,3,Short
+tt0000552,5.8,30,short,The Hand of the Artist,The Hand of the Artist,0,1907,\N,\N,Animation
+tt0000552,5.8,30,short,The Hand of the Artist,The Hand of the Artist,0,1907,\N,\N,Short
+tt0000553,6.5,239,short,The Haunted Hotel,The Haunted Hotel,0,1907,\N,5,Comedy
+tt0000553,6.5,239,short,The Haunted Hotel,The Haunted Hotel,0,1907,\N,5,Fantasy
+tt0000553,6.5,239,short,The Haunted Hotel,The Haunted Hotel,0,1907,\N,5,Horror
+tt0000554,6.1,993,short,Humorous Phases of Funny Faces,Humorous Phases of Funny Faces,0,1906,\N,3,Animation
+tt0000554,6.1,993,short,Humorous Phases of Funny Faces,Humorous Phases of Funny Faces,0,1906,\N,3,Comedy
+tt0000554,6.1,993,short,Humorous Phases of Funny Faces,Humorous Phases of Funny Faces,0,1906,\N,3,Family
+tt0000555,5.4,10,short,Den hvide slavinde,Den hvide slavinde,0,1907,\N,\N,Short
+tt0000557,4.7,86,short,Kathleen Mavourneen,Kathleen Mavourneen,0,1906,\N,15,Drama
+tt0000557,4.7,86,short,Kathleen Mavourneen,Kathleen Mavourneen,0,1906,\N,15,Romance
+tt0000557,4.7,86,short,Kathleen Mavourneen,Kathleen Mavourneen,0,1906,\N,15,Short
+tt0000561,5.5,24,short,The Life of a Cowboy,The Life of a Cowboy,0,1906,\N,13,Short
+tt0000561,5.5,24,short,The Life of a Cowboy,The Life of a Cowboy,0,1906,\N,13,Western
+tt0000565,6.3,401,short,The Night Before Christmas,The Night Before Christmas,0,1905,\N,9,Animation
+tt0000565,6.3,401,short,The Night Before Christmas,The Night Before Christmas,0,1905,\N,9,Family
+tt0000565,6.3,401,short,The Night Before Christmas,The Night Before Christmas,0,1905,\N,9,Fantasy
+tt0000567,6.7,815,short,The 400 Tricks of the Devil,Les quatre cents farces du diable,0,1906,\N,17,Fantasy
+tt0000567,6.7,815,short,The 400 Tricks of the Devil,Les quatre cents farces du diable,0,1906,\N,17,Horror
+tt0000567,6.7,815,short,The 400 Tricks of the Devil,Les quatre cents farces du diable,0,1906,\N,17,Short
+tt0000570,4.1,31,short,San Francisco Disaster,San Francisco Disaster,0,1906,\N,3,Documentary
+tt0000570,4.1,31,short,San Francisco Disaster,San Francisco Disaster,0,1906,\N,3,Short
+tt0000571,6.9,47,short,The San Francisco Earthquake,The San Francisco Earthquake,0,1906,\N,14,Documentary
+tt0000571,6.9,47,short,The San Francisco Earthquake,The San Francisco Earthquake,0,1906,\N,14,History
+tt0000571,6.9,47,short,The San Francisco Earthquake,The San Francisco Earthquake,0,1906,\N,14,Short
+tt0000574,6.1,529,movie,The Story of the Kelly Gang,The Story of the Kelly Gang,0,1906,\N,70,Biography
+tt0000574,6.1,529,movie,The Story of the Kelly Gang,The Story of the Kelly Gang,0,1906,\N,70,Crime
+tt0000574,6.1,529,movie,The Story of the Kelly Gang,The Story of the Kelly Gang,0,1906,\N,70,Drama
+tt0000575,5.9,356,short,"20,000 Leagues Under the Sea",20000 lieues sous les mers,0,1907,\N,10,Adventure
+tt0000575,5.9,356,short,"20,000 Leagues Under the Sea",20000 lieues sous les mers,0,1907,\N,10,Fantasy
+tt0000575,5.9,356,short,"20,000 Leagues Under the Sea",20000 lieues sous les mers,0,1907,\N,10,Sci-Fi
+tt0000576,6.0,180,short,Ali Baba and the Forty Thieves,Ali Baba et les quarante voleurs,0,1907,\N,8,Drama
+tt0000576,6.0,180,short,Ali Baba and the Forty Thieves,Ali Baba et les quarante voleurs,0,1907,\N,8,Fantasy
+tt0000576,6.0,180,short,Ali Baba and the Forty Thieves,Ali Baba et les quarante voleurs,0,1907,\N,8,Short
+tt0000578,7.1,10,short,"An Awful Skate; or, The Hobo on Rollers","An Awful Skate; or, The Hobo on Rollers",0,1907,\N,\N,Comedy
+tt0000578,7.1,10,short,"An Awful Skate; or, The Hobo on Rollers","An Awful Skate; or, The Hobo on Rollers",0,1907,\N,\N,Family
+tt0000578,7.1,10,short,"An Awful Skate; or, The Hobo on Rollers","An Awful Skate; or, The Hobo on Rollers",0,1907,\N,\N,Short
+tt0000582,5.1,554,short,Ben Hur,Ben Hur,0,1907,\N,15,Drama
+tt0000582,5.1,554,short,Ben Hur,Ben Hur,0,1907,\N,15,Short
+tt0000583,5.6,19,short,The Lady with the Camellias,Kameliadamen,0,1907,\N,\N,Drama
+tt0000583,5.6,19,short,The Lady with the Camellias,Kameliadamen,0,1907,\N,\N,Romance
+tt0000583,5.6,19,short,The Lady with the Camellias,Kameliadamen,0,1907,\N,\N,Short
+tt0000584,5.0,46,short,El ciego de la aldea,El ciego de la aldea,0,1907,\N,8,Crime
+tt0000584,5.0,46,short,El ciego de la aldea,El ciego de la aldea,0,1907,\N,8,Drama
+tt0000584,5.0,46,short,El ciego de la aldea,El ciego de la aldea,0,1907,\N,8,Short
+tt0000586,7.0,5,short,A Curious Dream,A Curious Dream,0,1907,\N,\N,Drama
+tt0000586,7.0,5,short,A Curious Dream,A Curious Dream,0,1907,\N,\N,Short
+tt0000591,6.0,5,short,The Prodigal Son,L'enfant prodigue,0,1907,\N,9,Drama
+tt0000591,6.0,5,short,The Prodigal Son,L'enfant prodigue,0,1907,\N,9,Short
+tt0000597,4.9,47,short,The Magic Mirror,Les glaces merveilleuses,0,1907,\N,7,Short
+tt0000598,5.3,21,short,"Hamlet, Prince of Denmark",Hamlet,0,1907,\N,\N,Drama
+tt0000598,5.3,21,short,"Hamlet, Prince of Denmark",Hamlet,0,1907,\N,\N,Short
+tt0000599,4.7,7,short,IsbjÃ¸rnejagten,IsbjÃ¸rnejagten,0,1907,\N,\N,Drama
+tt0000599,4.7,7,short,IsbjÃ¸rnejagten,IsbjÃ¸rnejagten,0,1907,\N,\N,Short
+tt0000601,5.8,6,short,Lohengrin,Lohengrin,0,1910,\N,\N,Drama
+tt0000601,5.8,6,short,Lohengrin,Lohengrin,0,1910,\N,\N,Short
+tt0000602,4.8,143,short,Lion Hunting,LÃ¸vejagten,0,1907,\N,10,Adventure
+tt0000602,4.8,143,short,Lion Hunting,LÃ¸vejagten,0,1907,\N,10,Drama
+tt0000602,4.8,143,short,Lion Hunting,LÃ¸vejagten,0,1907,\N,10,Short
+tt0000609,4.5,11,short,Othello,Otello,0,1906,\N,\N,Drama
+tt0000609,4.5,11,short,Othello,Otello,0,1906,\N,\N,Music
+tt0000609,4.5,11,short,Othello,Otello,0,1906,\N,\N,Romance
+tt0000610,5.0,10,short,Othello,Othello,0,1908,\N,\N,Drama
+tt0000610,5.0,10,short,Othello,Othello,0,1908,\N,\N,Romance
+tt0000610,5.0,10,short,Othello,Othello,0,1908,\N,\N,Short
+tt0000613,4.3,7,short,O Rapto de Uma Actriz,O Rapto de Uma Actriz,0,1907,\N,\N,Drama
+tt0000613,4.3,7,short,O Rapto de Uma Actriz,O Rapto de Uma Actriz,0,1907,\N,\N,Short
+tt0000614,6.5,787,short,The Red Spectre,Le spectre rouge,0,1907,\N,9,Fantasy
+tt0000614,6.5,787,short,The Red Spectre,Le spectre rouge,0,1907,\N,9,Horror
+tt0000614,6.5,787,short,The Red Spectre,Le spectre rouge,0,1907,\N,9,Short
+tt0000615,4.8,14,movie,Robbery Under Arms,Robbery Under Arms,0,1907,\N,\N,Drama
+tt0000617,4.6,16,short,The Robber's Sweetheart,RÃ¸verens brud,0,1907,\N,\N,Drama
+tt0000617,4.6,16,short,The Robber's Sweetheart,RÃ¸verens brud,0,1907,\N,\N,Short
+tt0000621,6.4,475,short,That Fatal Sneeze,That Fatal Sneeze,0,1907,\N,6,Comedy
+tt0000621,6.4,475,short,That Fatal Sneeze,That Fatal Sneeze,0,1907,\N,6,Fantasy
+tt0000621,6.4,475,short,That Fatal Sneeze,That Fatal Sneeze,0,1907,\N,6,Short
+tt0000627,6.1,14,short,'Ostler Joe,'Ostler Joe,0,1908,\N,\N,Drama
+tt0000627,6.1,14,short,'Ostler Joe,'Ostler Joe,0,1908,\N,\N,Short
+tt0000628,5.6,616,short,The Adventures of Dollie,The Adventures of Dollie,0,1908,\N,12,Action
+tt0000628,5.6,616,short,The Adventures of Dollie,The Adventures of Dollie,0,1908,\N,12,Short
+tt0000629,5.7,29,short,After Many Years,After Many Years,0,1908,\N,17,Drama
+tt0000629,5.7,29,short,After Many Years,After Many Years,0,1908,\N,17,Short
+tt0000630,2.7,10,movie,Hamlet,Amleto,0,1908,\N,\N,Drama
+tt0000632,5.0,28,short,Amor que mata,Amor que mata,0,1908,\N,14,Short
+tt0000634,3.5,6,short,Antony and Cleopatra,Antony and Cleopatra,0,1908,\N,\N,Drama
+tt0000634,3.5,6,short,Antony and Cleopatra,Antony and Cleopatra,0,1908,\N,\N,History
+tt0000634,3.5,6,short,Antony and Cleopatra,Antony and Cleopatra,0,1908,\N,\N,Romance
+tt0000637,5.5,498,short,The Assassination of the Duke de Guise,L'assassinat du duc de Guise,0,1908,\N,15,Drama
+tt0000637,5.5,498,short,The Assassination of the Duke de Guise,L'assassinat du duc de Guise,0,1908,\N,15,History
+tt0000637,5.5,498,short,The Assassination of the Duke de Guise,L'assassinat du duc de Guise,0,1908,\N,15,Short
+tt0000638,5.3,28,short,At the Crossroads of Life,At the Crossroads of Life,0,1908,\N,\N,Drama
+tt0000638,5.3,28,short,At the Crossroads of Life,At the Crossroads of Life,0,1908,\N,\N,Short
+tt0000639,5.1,36,short,At the French Ball,At the French Ball,0,1908,\N,7,Comedy
+tt0000639,5.1,36,short,At the French Ball,At the French Ball,0,1908,\N,7,Short
+tt0000640,4.3,65,short,An Awful Moment,An Awful Moment,0,1908,\N,12,Drama
+tt0000640,4.3,65,short,An Awful Moment,An Awful Moment,0,1908,\N,12,Short
+tt0000641,5.2,90,short,Balked at the Altar,Balked at the Altar,0,1908,\N,12,Comedy
+tt0000641,5.2,90,short,Balked at the Altar,Balked at the Altar,0,1908,\N,12,Short
+tt0000642,5.4,22,short,The Bandit's Waterloo,The Bandit's Waterloo,0,1908,\N,12,Action
+tt0000642,5.4,22,short,The Bandit's Waterloo,The Bandit's Waterloo,0,1908,\N,12,Short
+tt0000644,5.2,17,short,Behind the Scenes,Behind the Scenes,0,1908,\N,9,Drama
+tt0000644,5.2,17,short,Behind the Scenes,Behind the Scenes,0,1908,\N,9,Short
+tt0000645,5.5,83,short,Betrayed by a Handprint,Betrayed by a Handprint,0,1908,\N,9,Crime
+tt0000645,5.5,83,short,Betrayed by a Handprint,Betrayed by a Handprint,0,1908,\N,9,Short
+tt0000648,4.8,90,short,The Black Viper,The Black Viper,0,1908,\N,10,Drama
+tt0000648,4.8,90,short,The Black Viper,The Black Viper,0,1908,\N,10,Short
+tt0000651,5.3,24,short,"The Boy Detective, or The Abductors Foiled","The Boy Detective, or The Abductors Foiled",0,1908,\N,5,Comedy
+tt0000651,5.3,24,short,"The Boy Detective, or The Abductors Foiled","The Boy Detective, or The Abductors Foiled",0,1908,\N,5,Drama
+tt0000651,5.3,24,short,"The Boy Detective, or The Abductors Foiled","The Boy Detective, or The Abductors Foiled",0,1908,\N,5,Short
+tt0000653,4.6,135,short,A Calamitous Elopement,A Calamitous Elopement,0,1908,\N,12,Comedy
+tt0000653,4.6,135,short,A Calamitous Elopement,A Calamitous Elopement,0,1908,\N,12,Short
+tt0000654,5.3,34,short,The Call of the Wild,The Call of the Wild,0,1908,\N,16,Action
+tt0000654,5.3,34,short,The Call of the Wild,The Call of the Wild,0,1908,\N,16,Short
+tt0000658,6.4,149,short,The Puppet's Nightmare,Le cauchemar de Fantoche,0,1908,\N,2,Animation
+tt0000658,6.4,149,short,The Puppet's Nightmare,Le cauchemar de Fantoche,0,1908,\N,2,Short
+tt0000659,5.2,29,short,Caught by Wireless,Caught by Wireless,0,1908,\N,10,Drama
+tt0000659,5.2,29,short,Caught by Wireless,Caught by Wireless,0,1908,\N,10,Short
+tt0000660,5.8,17,short,The Christmas Burglars,The Christmas Burglars,0,1908,\N,11,Comedy
+tt0000660,5.8,17,short,The Christmas Burglars,The Christmas Burglars,0,1908,\N,11,Short
+tt0000661,7.2,9,short,Humanity Through the Ages,La civilisation Ã  travers les Ã¢ges,0,1908,\N,\N,Short
+tt0000662,5.0,13,short,Classmates,Classmates,0,1908,\N,\N,Drama
+tt0000662,5.0,13,short,Classmates,Classmates,0,1908,\N,\N,Romance
+tt0000662,5.0,13,short,Classmates,Classmates,0,1908,\N,\N,Short
+tt0000663,5.6,14,short,The Clubman and the Tramp,The Clubman and the Tramp,0,1908,\N,17,Comedy
+tt0000663,5.6,14,short,The Clubman and the Tramp,The Clubman and the Tramp,0,1908,\N,17,Short
+tt0000665,5.7,14,short,Concealing a Burglar,Concealing a Burglar,0,1908,\N,11,Drama
+tt0000665,5.7,14,short,Concealing a Burglar,Concealing a Burglar,0,1908,\N,11,Short
+tt0000666,5.6,19,short,Corrida de toros con Antonio Fuentes,Corrida de toros con Antonio Fuentes,0,1908,\N,25,Documentary
+tt0000666,5.6,19,short,Corrida de toros con Antonio Fuentes,Corrida de toros con Antonio Fuentes,0,1908,\N,25,Short
+tt0000666,5.6,19,short,Corrida de toros con Antonio Fuentes,Corrida de toros con Antonio Fuentes,0,1908,\N,25,Sport
+tt0000668,6.9,18,short,The Count of Monte Cristo,The Count of Monte Cristo,0,1908,\N,14,Action
+tt0000668,6.9,18,short,The Count of Monte Cristo,The Count of Monte Cristo,0,1908,\N,14,Drama
+tt0000668,6.9,18,short,The Count of Monte Cristo,The Count of Monte Cristo,0,1908,\N,14,Short
+tt0000669,4.7,95,short,Cupid's Pranks,Cupid's Pranks,0,1908,\N,10,Comedy
+tt0000669,4.7,95,short,Cupid's Pranks,Cupid's Pranks,0,1908,\N,10,Fantasy
+tt0000669,4.7,95,short,Cupid's Pranks,Cupid's Pranks,0,1908,\N,10,Short
+tt0000671,5.8,8,short,Desdemona,Desdemona,0,1908,\N,\N,Drama
+tt0000671,5.8,8,short,Desdemona,Desdemona,0,1908,\N,\N,Short
+tt0000672,6.2,12,short,The Devil,The Devil,0,1908,\N,10,Drama
+tt0000672,6.2,12,short,The Devil,The Devil,0,1908,\N,10,Short
+tt0000674,4.4,27,short,Don Juan Tenorio,Don Juan Tenorio,0,1908,\N,15,Drama
+tt0000674,4.4,27,short,Don Juan Tenorio,Don Juan Tenorio,0,1908,\N,15,Short
+tt0000675,4.2,9,movie,Don Quijote,Don Quijote,0,1908,\N,\N,Drama
+tt0000676,3.6,8,movie,Don Ãlvaro o la fuerza del sino,Don Ãlvaro o la fuerza del sino,0,1908,\N,\N,Drama
+tt0000679,4.8,32,movie,The Fairylogue and Radio-Plays,The Fairylogue and Radio-Plays,0,1908,\N,120,Adventure
+tt0000679,4.8,32,movie,The Fairylogue and Radio-Plays,The Fairylogue and Radio-Plays,0,1908,\N,120,Fantasy
+tt0000680,5.5,14,short,Falsely Accused!,Falsely Accused!,0,1908,\N,\N,Drama
+tt0000680,5.5,14,short,Falsely Accused!,Falsely Accused!,0,1908,\N,\N,Short
+tt0000681,5.9,8,short,A Famous Escape,A Famous Escape,0,1908,\N,\N,Drama
+tt0000681,5.9,8,short,A Famous Escape,A Famous Escape,0,1908,\N,\N,Short
+tt0000682,6.9,1958,short,A Fantasy,Fantasmagorie,0,1908,\N,2,Animation
+tt0000682,6.9,1958,short,A Fantasy,Fantasmagorie,0,1908,\N,2,Fantasy
+tt0000682,6.9,1958,short,A Fantasy,Fantasmagorie,0,1908,\N,2,Short
+tt0000683,5.5,37,short,The Fatal Hour,The Fatal Hour,0,1908,\N,14,Crime
+tt0000683,5.5,37,short,The Fatal Hour,The Fatal Hour,0,1908,\N,14,Short
+tt0000684,5.1,59,short,Father Gets in the Game,Father Gets in the Game,0,1908,\N,10,Comedy
+tt0000684,5.1,59,short,Father Gets in the Game,Father Gets in the Game,0,1908,\N,10,Short
+tt0000685,5.8,14,short,The Feud and the Turkey,The Feud and the Turkey,0,1908,\N,15,Drama
+tt0000685,5.8,14,short,The Feud and the Turkey,The Feud and the Turkey,0,1908,\N,15,Romance
+tt0000685,5.8,14,short,The Feud and the Turkey,The Feud and the Turkey,0,1908,\N,15,Short
+tt0000689,6.2,16,short,For Love of Gold,For Love of Gold,0,1908,\N,9,Crime
+tt0000689,6.2,16,short,For Love of Gold,For Love of Gold,0,1908,\N,9,Short
+tt0000690,6.1,12,short,For a Wife's Honor,For a Wife's Honor,0,1908,\N,8,Drama
+tt0000690,6.1,12,short,For a Wife's Honor,For a Wife's Honor,0,1908,\N,8,Short
+tt0000694,4.8,16,short,The Girl and the Outlaw,The Girl and the Outlaw,0,1908,\N,14,Action
+tt0000694,4.8,16,short,The Girl and the Outlaw,The Girl and the Outlaw,0,1908,\N,14,Short
+tt0000694,4.8,16,short,The Girl and the Outlaw,The Girl and the Outlaw,0,1908,\N,14,Western
+tt0000695,5.7,19,short,The Greaser's Gauntlet,The Greaser's Gauntlet,0,1908,\N,17,Action
+tt0000695,5.7,19,short,The Greaser's Gauntlet,The Greaser's Gauntlet,0,1908,\N,17,Short
+tt0000697,5.5,8,short,The Guerrilla,The Guerrilla,0,1908,\N,15,Action
+tt0000697,5.5,8,short,The Guerrilla,The Guerrilla,0,1908,\N,15,Short
+tt0000697,5.5,8,short,The Guerrilla,The Guerrilla,0,1908,\N,15,War
+tt0000698,4.7,7,short,The Heart of O Yama,The Heart of O Yama,0,1908,\N,15,Drama
+tt0000698,4.7,7,short,The Heart of O Yama,The Heart of O Yama,0,1908,\N,15,Romance
+tt0000698,4.7,7,short,The Heart of O Yama,The Heart of O Yama,0,1908,\N,15,Short
+tt0000699,5.4,8,short,The Helping Hand,The Helping Hand,0,1908,\N,15,Drama
+tt0000699,5.4,8,short,The Helping Hand,The Helping Hand,0,1908,\N,15,Short
+tt0000700,5.4,37,short,Her First Adventure,Her First Adventure,0,1908,\N,6,Drama
+tt0000700,5.4,37,short,Her First Adventure,Her First Adventure,0,1908,\N,6,Short
+tt0000704,4.8,12,short,The Humpty Dumpty Circus,The Humpty Dumpty Circus,0,1898,\N,\N,Animation
+tt0000704,4.8,12,short,The Humpty Dumpty Circus,The Humpty Dumpty Circus,0,1898,\N,\N,Comedy
+tt0000704,4.8,12,short,The Humpty Dumpty Circus,The Humpty Dumpty Circus,0,1898,\N,\N,Short
+tt0000706,5.1,12,short,"Ingomar, the Barbarian","Ingomar, the Barbarian",0,1908,\N,13,Drama
+tt0000706,5.1,12,short,"Ingomar, the Barbarian","Ingomar, the Barbarian",0,1908,\N,13,Romance
+tt0000706,5.1,12,short,"Ingomar, the Barbarian","Ingomar, the Barbarian",0,1908,\N,13,Short
+tt0000707,5.4,8,short,The Ingrate,The Ingrate,0,1908,\N,15,Action
+tt0000707,5.4,8,short,The Ingrate,The Ingrate,0,1908,\N,15,Short
+tt0000708,4.8,8,short,The Invisible Fluid,The Invisible Fluid,0,1908,\N,12,Comedy
+tt0000708,4.8,8,short,The Invisible Fluid,The Invisible Fluid,0,1908,\N,12,Short
+tt0000709,5.3,18,short,Julius Caesar,Julius Caesar,0,1908,\N,\N,Drama
+tt0000709,5.3,18,short,Julius Caesar,Julius Caesar,0,1908,\N,\N,History
+tt0000709,5.3,18,short,Julius Caesar,Julius Caesar,0,1908,\N,\N,Short
+tt0000711,4.4,5,short,The Kentuckian,The Kentuckian,0,1908,\N,\N,Short
+tt0000711,4.4,5,short,The Kentuckian,The Kentuckian,0,1908,\N,\N,Western
+tt0000713,6.0,6,short,The King's Messenger,The King's Messenger,0,1908,\N,\N,Drama
+tt0000713,6.0,6,short,The King's Messenger,The King's Messenger,0,1908,\N,\N,Short
+tt0000717,6.0,6,short,Macbeth,Macbeth,0,1908,\N,9,Drama
+tt0000717,6.0,6,short,Macbeth,Macbeth,0,1908,\N,9,Short
+tt0000720,6.4,9,short,The Man and the Woman,The Man and the Woman,0,1908,\N,13,Drama
+tt0000720,6.4,9,short,The Man and the Woman,The Man and the Woman,0,1908,\N,13,Short
+tt0000722,4.7,6,short,The Red Barn Mystery,Maria Marten,0,1908,\N,\N,Drama
+tt0000722,4.7,6,short,The Red Barn Mystery,Maria Marten,0,1908,\N,\N,Short
+tt0000724,5.2,29,short,The Merchant of Venice,The Merchant of Venice,0,1908,\N,9,Drama
+tt0000724,5.2,29,short,The Merchant of Venice,The Merchant of Venice,0,1908,\N,9,Short
+tt0000727,6.1,10,short,Monday Morning in a Coney Island Police Court,Monday Morning in a Coney Island Police Court,0,1908,\N,7,Comedy
+tt0000727,6.1,10,short,Monday Morning in a Coney Island Police Court,Monday Morning in a Coney Island Police Court,0,1908,\N,7,Short
+tt0000728,5.8,67,short,Money Mad,Money Mad,0,1908,\N,11,Crime
+tt0000728,5.8,67,short,Money Mad,Money Mad,0,1908,\N,11,Drama
+tt0000728,5.8,67,short,Money Mad,Money Mad,0,1908,\N,11,Short
+tt0000730,5.9,27,short,Mr. Jones at the Ball,Mr. Jones at the Ball,0,1908,\N,8,Comedy
+tt0000730,5.9,27,short,Mr. Jones at the Ball,Mr. Jones at the Ball,0,1908,\N,8,Short
+tt0000731,4.4,10,short,Mrs. Jones Entertains,Mrs. Jones Entertains,0,1909,\N,11,Comedy
+tt0000731,4.4,10,short,Mrs. Jones Entertains,Mrs. Jones Entertains,0,1909,\N,11,Short
+tt0000733,6.2,13,short,"Old Isaacs, the Pawnbroker","Old Isaacs, the Pawnbroker",0,1908,\N,10,Drama
+tt0000733,6.2,13,short,"Old Isaacs, the Pawnbroker","Old Isaacs, the Pawnbroker",0,1908,\N,10,Short
+tt0000736,5.4,5,short,The Outlaw,The Outlaw,0,1908,\N,\N,Short
+tt0000736,5.4,5,short,The Outlaw,The Outlaw,0,1908,\N,\N,Western
+tt0000737,5.3,12,short,Over the Hill to the Poorhouse,Over the Hill to the Poorhouse,0,1908,\N,13,Drama
+tt0000737,5.3,12,short,Over the Hill to the Poorhouse,Over the Hill to the Poorhouse,0,1908,\N,13,Short
+tt0000738,7.8,11,short,The Paris Hat,The Paris Hat,0,1908,\N,\N,Short
+tt0000739,6.2,8,movie,El pastorcito de Torrente,El pastorcito de Torrente,0,1908,\N,\N,Drama
+tt0000740,5.5,8,short,The Pirate's Gold,The Pirate's Gold,0,1908,\N,16,Action
+tt0000740,5.5,8,short,The Pirate's Gold,The Pirate's Gold,0,1908,\N,16,Short
+tt0000741,5.4,8,short,The Planter's Wife,The Planter's Wife,0,1908,\N,14,Action
+tt0000741,5.4,8,short,The Planter's Wife,The Planter's Wife,0,1908,\N,14,Drama
+tt0000741,5.4,8,short,The Planter's Wife,The Planter's Wife,0,1908,\N,14,Short
+tt0000743,6.2,5,short,The Princess in the Vase,The Princess in the Vase,0,1908,\N,\N,Comedy
+tt0000743,6.2,5,short,The Princess in the Vase,The Princess in the Vase,0,1908,\N,\N,Short
+tt0000746,7.2,10,short,The Reckoning,The Reckoning,0,1908,\N,8,Drama
+tt0000746,7.2,10,short,The Reckoning,The Reckoning,0,1908,\N,8,Short
+tt0000747,4.6,8,short,The Red Girl,The Red Girl,0,1908,\N,17,Action
+tt0000747,4.6,8,short,The Red Girl,The Red Girl,0,1908,\N,17,Short
+tt0000748,5.9,14,short,The Red Man and the Child,The Red Man and the Child,0,1908,\N,14,Action
+tt0000748,5.9,14,short,The Red Man and the Child,The Red Man and the Child,0,1908,\N,14,Short
+tt0000748,5.9,14,short,The Red Man and the Child,The Red Man and the Child,0,1908,\N,14,Western
+tt0000749,5.7,596,short,Rescued from an Eagle's Nest,Rescued from an Eagle's Nest,0,1908,\N,8,Action
+tt0000749,5.7,596,short,Rescued from an Eagle's Nest,Rescued from an Eagle's Nest,0,1908,\N,8,Short
+tt0000752,5.5,73,short,Romance of a Jewess,Romance of a Jewess,0,1908,\N,10,Drama
+tt0000752,5.5,73,short,Romance of a Jewess,Romance of a Jewess,0,1908,\N,10,Short
+tt0000754,7.1,36,short,Romeo and Juliet,Romeo and Juliet,0,1908,\N,\N,Drama
+tt0000754,7.1,36,short,Romeo and Juliet,Romeo and Juliet,0,1908,\N,\N,Romance
+tt0000754,7.1,36,short,Romeo and Juliet,Romeo and Juliet,0,1908,\N,\N,Short
+tt0000755,5.7,137,short,The Dream of an Opium Fiend,Le rÃªve d'un fumeur d'opium,0,1908,\N,4,Short
+tt0000756,5.4,74,short,The Sculptor's Nightmare,The Sculptor's Nightmare,0,1908,\N,11,Comedy
+tt0000756,5.4,74,short,The Sculptor's Nightmare,The Sculptor's Nightmare,0,1908,\N,11,Short
+tt0000758,6.0,16,short,Sherlock Holmes,Sherlock Holmes i Livsfare,0,1908,\N,\N,Mystery
+tt0000758,6.0,16,short,Sherlock Holmes,Sherlock Holmes i Livsfare,0,1908,\N,\N,Short
+tt0000759,7.6,7,short,Sherlock Holmes II: Raffles Escaped from Prison,Sherlock Holmes II,0,1909,\N,\N,Comedy
+tt0000759,7.6,7,short,Sherlock Holmes II: Raffles Escaped from Prison,Sherlock Holmes II,0,1909,\N,\N,Short
+tt0000762,6.0,6,short,A Smoked Husband,A Smoked Husband,0,1908,\N,8,Comedy
+tt0000762,6.0,6,short,A Smoked Husband,A Smoked Husband,0,1908,\N,8,Short
+tt0000764,6.1,84,short,The Song of the Shirt,The Song of the Shirt,0,1908,\N,11,Drama
+tt0000764,6.1,84,short,The Song of the Shirt,The Song of the Shirt,0,1908,\N,11,Short
+tt0000765,5.8,5,short,The Stage Rustler,The Stage Rustler,0,1908,\N,\N,Short
+tt0000765,5.8,5,short,The Stage Rustler,The Stage Rustler,0,1908,\N,\N,Western
+tt0000767,6.5,8,short,The Stolen Jewels,The Stolen Jewels,0,1908,\N,11,Drama
+tt0000767,6.5,8,short,The Stolen Jewels,The Stolen Jewels,0,1908,\N,11,Short
+tt0000769,5.3,107,short,Knight of Black Art,Le tambourin fantastique,0,1908,\N,6,Short
+tt0000770,5.8,86,short,The Taming of the Shrew,The Taming of the Shrew,0,1908,\N,17,Comedy
+tt0000770,5.8,86,short,The Taming of the Shrew,The Taming of the Shrew,0,1908,\N,17,Romance
+tt0000770,5.8,86,short,The Taming of the Shrew,The Taming of the Shrew,0,1908,\N,17,Short
+tt0000771,5.7,11,short,The Tavern Keeper's Daughter,The Tavern Keeper's Daughter,0,1908,\N,7,Action
+tt0000771,5.7,11,short,The Tavern Keeper's Daughter,The Tavern Keeper's Daughter,0,1908,\N,7,Short
+tt0000772,6.1,9,short,The Test of Friendship,The Test of Friendship,0,1908,\N,13,Drama
+tt0000772,6.1,9,short,The Test of Friendship,The Test of Friendship,0,1908,\N,13,Short
+tt0000775,7.5,6,short,Susceptible Youth,Trop crÃ©dules,0,1908,\N,\N,Comedy
+tt0000775,7.5,6,short,Susceptible Youth,Trop crÃ©dules,0,1908,\N,\N,Short
+tt0000776,5.5,44,short,The Last Days of Pompeii,Gli ultimi giorni di Pompeii,0,1908,\N,17,Drama
+tt0000776,5.5,44,short,The Last Days of Pompeii,Gli ultimi giorni di Pompeii,0,1908,\N,17,Short
+tt0000778,6.5,6,short,The Valet's Wife,The Valet's Wife,0,1908,\N,\N,Comedy
+tt0000778,6.5,6,short,The Valet's Wife,The Valet's Wife,0,1908,\N,\N,Short
+tt0000779,5.7,6,short,The Vaquero's Vow,The Vaquero's Vow,0,1908,\N,13,Action
+tt0000779,5.7,6,short,The Vaquero's Vow,The Vaquero's Vow,0,1908,\N,13,Romance
+tt0000779,5.7,6,short,The Vaquero's Vow,The Vaquero's Vow,0,1908,\N,13,Short
+tt0000781,6.2,9,short,The Viking's Daughter: The Story of the Ancient Norsemen,The Viking's Daughter: The Story of the Ancient Norsemen,0,1908,\N,\N,Adventure
+tt0000781,6.2,9,short,The Viking's Daughter: The Story of the Ancient Norsemen,The Viking's Daughter: The Story of the Ancient Norsemen,0,1908,\N,\N,Drama
+tt0000781,6.2,9,short,The Viking's Daughter: The Story of the Ancient Norsemen,The Viking's Daughter: The Story of the Ancient Norsemen,0,1908,\N,\N,Romance
+tt0000782,8.3,13,short,"A Visit to the Seaside at Brighton Beach, England",A Visit to the Seaside,0,1910,\N,8,Documentary
+tt0000782,8.3,13,short,"A Visit to the Seaside at Brighton Beach, England",A Visit to the Seaside,0,1910,\N,8,Short
+tt0000784,6.0,6,short,When Knights Were Bold,When Knights Were Bold,0,1908,\N,\N,Short
+tt0000785,5.6,24,short,Where the Breakers Roar,Where the Breakers Roar,0,1908,\N,9,Drama
+tt0000785,5.6,24,short,Where the Breakers Roar,Where the Breakers Roar,0,1908,\N,9,Short
+tt0000787,5.1,8,short,A Woman's Way,A Woman's Way,0,1908,\N,11,Action
+tt0000787,5.1,8,short,A Woman's Way,A Woman's Way,0,1908,\N,11,Short
+tt0000789,5.0,24,short,The Zulu's Heart,The Zulu's Heart,0,1908,\N,13,Action
+tt0000789,5.0,24,short,The Zulu's Heart,The Zulu's Heart,0,1908,\N,13,Short
+tt0000790,6.2,249,short,The Battle in the Clouds,The Airship Destroyer,0,1909,\N,11,Fantasy
+tt0000790,6.2,249,short,The Battle in the Clouds,The Airship Destroyer,0,1909,\N,11,Sci-Fi
+tt0000790,6.2,249,short,The Battle in the Clouds,The Airship Destroyer,0,1909,\N,11,Short
+tt0000792,4.7,15,short,And a Little Child Shall Lead Them,And a Little Child Shall Lead Them,0,1909,\N,4,Drama
+tt0000792,4.7,15,short,And a Little Child Shall Lead Them,And a Little Child Shall Lead Them,0,1909,\N,4,Short
+tt0000793,4.2,8,movie,Andreas Hofer,Andreas Hofer,0,1909,\N,\N,Drama
+tt0000797,5.4,75,short,At the Altar,At the Altar,0,1909,\N,11,Drama
+tt0000797,5.4,75,short,At the Altar,At the Altar,0,1909,\N,11,Short
+tt0000798,4.0,8,short,An Attempt to Smash a Bank,An Attempt to Smash a Bank,0,1909,\N,\N,Drama
+tt0000798,4.0,8,short,An Attempt to Smash a Bank,An Attempt to Smash a Bank,0,1909,\N,\N,Short
+tt0000800,5.2,37,short,The Awakening,The Awakening,0,1909,\N,8,Comedy
+tt0000800,5.2,37,short,The Awakening,The Awakening,0,1909,\N,8,Drama
+tt0000800,5.2,37,short,The Awakening,The Awakening,0,1909,\N,8,Short
+tt0000801,5.1,15,short,A Baby's Shoe,A Baby's Shoe,0,1909,\N,11,Drama
+tt0000801,5.1,15,short,A Baby's Shoe,A Baby's Shoe,0,1909,\N,11,Short
+tt0000807,4.6,12,short,The Better Way,The Better Way,0,1909,\N,11,Drama
+tt0000807,4.6,12,short,The Better Way,The Better Way,0,1909,\N,11,Short
+tt0000809,6.0,21,short,Bill Sharkey's Last Game,Bill Sharkey's Last Game,0,1910,\N,\N,Short
+tt0000809,6.0,21,short,Bill Sharkey's Last Game,Bill Sharkey's Last Game,0,1910,\N,\N,Western
+tt0000815,4.5,11,short,The Brahma Diamond,The Brahma Diamond,0,1909,\N,11,Short
+tt0000816,4.7,54,short,The Broken Locket,The Broken Locket,0,1909,\N,11,Drama
+tt0000816,4.7,54,short,The Broken Locket,The Broken Locket,0,1909,\N,11,Short
+tt0000817,3.2,9,short,A Message to Napoleon,Et budskab til Napoleon paa Elba,0,1909,\N,\N,Drama
+tt0000817,3.2,9,short,A Message to Napoleon,Et budskab til Napoleon paa Elba,0,1909,\N,\N,Short
+tt0000819,5.2,13,short,A Burglar's Mistake,A Burglar's Mistake,0,1909,\N,10,Short
+tt0000821,4.5,47,short,The Cardinal's Conspiracy,The Cardinal's Conspiracy,0,1909,\N,11,Drama
+tt0000821,4.5,47,short,The Cardinal's Conspiracy,The Cardinal's Conspiracy,0,1909,\N,11,Short
+tt0000823,4.4,13,short,A Change of Heart,A Change of Heart,0,1909,\N,11,Drama
+tt0000823,4.4,13,short,A Change of Heart,A Change of Heart,0,1909,\N,11,Short
+tt0000825,4.4,11,short,The Children's Friend,The Children's Friend,0,1909,\N,4,Drama
+tt0000825,4.4,11,short,The Children's Friend,The Children's Friend,0,1909,\N,4,Short
+tt0000826,4.3,10,short,Choosing a Husband,Choosing a Husband,0,1909,\N,6,Comedy
+tt0000826,4.3,10,short,Choosing a Husband,Choosing a Husband,0,1909,\N,6,Short
+tt0000827,4.8,20,short,"Comata, the Sioux","Comata, the Sioux",0,1909,\N,10,Short
+tt0000827,4.8,20,short,"Comata, the Sioux","Comata, the Sioux",0,1909,\N,10,Western
+tt0000828,5.1,45,short,Confidence,Confidence,0,1909,\N,11,Drama
+tt0000828,5.1,45,short,Confidence,Confidence,0,1909,\N,11,Short
+tt0000829,4.2,12,short,A Convict's Sacrifice,A Convict's Sacrifice,0,1909,\N,11,Drama
+tt0000829,4.2,12,short,A Convict's Sacrifice,A Convict's Sacrifice,0,1909,\N,11,Short
+tt0000831,5.2,65,short,The Cord of Life,The Cord of Life,0,1909,\N,9,Crime
+tt0000831,5.2,65,short,The Cord of Life,The Cord of Life,0,1909,\N,9,Drama
+tt0000831,5.2,65,short,The Cord of Life,The Cord of Life,0,1909,\N,9,Short
+tt0000832,6.6,1961,short,A Corner in Wheat,A Corner in Wheat,0,1909,\N,14,Crime
+tt0000832,6.6,1961,short,A Corner in Wheat,A Corner in Wheat,0,1909,\N,14,Drama
+tt0000832,6.6,1961,short,A Corner in Wheat,A Corner in Wheat,0,1909,\N,14,Short
+tt0000833,6.4,485,short,The Country Doctor,The Country Doctor,0,1909,\N,14,Drama
+tt0000833,6.4,485,short,The Country Doctor,The Country Doctor,0,1909,\N,14,Short
