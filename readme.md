@@ -2,15 +2,8 @@
 
 **by Datageeks**
 
-**Template**
+**Technologies**
 
-Bubbly Admin Template 
-
-**URL**
-
-https://bootstrapious.com/p/bubbly-admin-template
-
-**Libraries**
  - Bootstrap
 
  - D3
